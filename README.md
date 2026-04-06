@@ -23,18 +23,18 @@ It enables users to evaluate and improve dataset reliability before using it for
 ---
 
 ## Project Structure
+```text
 R Project Final/
-│── app.R # Entry point of the application
-│── ui.R # User Interface logic
-│── server.R # Server-side logic
+│── app.R          # Entry point of the application
+│── ui.R           # User Interface logic
+│── server.R       # Server-side logic
 │── R/
-│ ├── audit.R # Data auditing functions
-│ ├── clean.R # Data cleaning logic
-│ ├── entropy.R # Entropy calculations
-│ ├── helpers.R # Utility/helper functions
-│ └── score.R # Data quality scoring
-
-
+│   ├── audit.R    # Data auditing functions
+│   ├── clean.R    # Data cleaning logic
+│   ├── entropy.R  # Entropy calculations
+│   ├── helpers.R  # Utility/helper functions
+│   └── score.R    # Data quality scoring
+```
 ---
 
 ## Prerequisites
