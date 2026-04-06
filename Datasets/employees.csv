@@ -1,0 +1,448 @@
+name,department,grade,age,salary,experience_years,email,phone
+Vikram Sharma,Design,L4,29,146564.08,6,vikram_sharma@company.com,08446770400
+Nisha Verma,Engineering,L1,33,,13,nisha_verma@company.com,N/A
+,Operations,L2,46,131434.03,30,,08969368575
+Aarav Patel,HR,L4,200,43617.75,2,aarav_patel@company.com,08946208161
+Ravi Verma,Engineering,L4,53,92360.06,14,ravi_verma@company.com,07010395346
+Meera Verma,Operations,L1,,,1,meera_verma@company.com,07600137938
+Ravi Pillai,,L2,27,74802.8,16,ravi_pillai@company.com,07838671966
+Ananya Singh,Design,L5,28,64835.9,29,emp@,07001994758
+Ananya Singh,Marketing,L2,51,143538.94,,ananya_singh@company.com,07724533378
+Meera Bhat,,L3,29,120810.91,28,meera_bhat@company.com,09865930113
+Sneha Joshi,Operations,L5,49,122841.26,15,sneha_joshi@company.com,08880899340
+Kiran Reddy,Engineering,L3,37,106439.36,15,kiran_reddy@company.com,09734391601
+Arjun Sharma,Sales,L1,,44339.93,5,arjun_sharma@company.com,09894305627
+Ananya Bose,Finance,L1,56,50000000,4,ananya_bose@company.com,08961622029
+Aarav Mehta,Finance,L1,44,191738.0,7,aarav_mehta@company.com,09569347712
+Rohit Kumar,Operations,L3,51,116280.93,24,rohit_kumar@company.com,1234
+Arjun Desai,Marketing,L4,51,164100.7,9,,07027339118
+Pooja Verma,Legal,L1,27,142827.67,,pooja_verma@company.com,07643888959
+Priya Kapoor,Sales,L5,23,61660.32,7,,07128409885
+Kavya Verma,Finance,L3,46,61034.53,14,kavya_verma@company.com,08516209039
+Meera Joshi,HR,L3,48,43533.18,10,meera_joshi@company.com,09075769888
+Deepak Iyer,HR,,55,150804.6,0,deepak_iyer@company.com,08128929346
+Vikram Shah,,L5,27,49243.47,15,vikram_shah@company.com,08432866087
+Kiran Joshi,HR,,34,180636.81,15,kiran_joshi@company.com,07418234854
+Sneha Shah,,L1,45,95098.51,3,sneha_shah@company.com,1234
+Arjun Nair,Legal,L4,26,176885.85,13,arjun_nair@company.com,08899240940
+Swati Reddy,,L3,41,51912.46,29,name.company,N/A
+Arjun Singh,Sales,L3,27,85076.02,16,arjun_singh@company.com,09386052110
+Arjun Desai,Marketing,L4,51,164100.7,9,,07027339118
+Kavya Kapoor,HR,L2,35,51470.22,28,@company.com,00000
+Amit Mehta,Design,L4,,143076.74,5,,08378035387
+Rohit Malhotra,Design,L4,58,-1,22,rohit_malhotra@company.com,09013362475
+Aarav Nair,Finance,L2,32,126368.68,23,aarav_nair@company.com,07432975854
+Rahul Rao,Marketing,L3,58,75352.3,23,rahul_rao@company.com,09117856053
+Deepak Singh,Finance,L4,0,104824.09,,deepak_singh@company.com,09012239476
+Nisha Rao,Finance,L2,24,157967.33,25,nisha_rao@company.com,07233176443
+Nisha Bose,Design,L3,36,152747.56,,,09737728692
+Meera Pillai,,L5,43,41289.43,5,meera_pillai@company.com,09450348080
+Aarav Kumar,,L2,53,177535.68,,aarav_kumar@company.com,07021098926
+Arjun Singh,Marketing,L2,30,,13,,07229795618
+Pooja Rao,HR,L5,48,161583.94,1,,08423466972
+Priya Bhat,Finance,L3,56,188508.41,19,priya_bhat@company.com,08261054900
+Sneha Gupta,Operations,L2,29,33860.6,,sneha_gupta@company.com,08448072365
+,,L1,,66485.09,19,rahul_iyer@company.com,09505936789
+Rahul Pillai,Operations,L2,36,50000000,,rahul_pillai@company.com,
+Rohit Reddy,Legal,L5,24,,16,rohit_reddy@company.com,
+Priya Singh,,L5,46,98941.8,29,priya_singh@company.com,08817583480
+Meera Verma,Design,L1,31,72686.92,-5,meera_verma@company.com,09208399276
+Ravi Mehta,Legal,L5,,117864.83,21,notvalid,07464636488
+Rohit Patel,Operations,L3,56,113645.63,12,rohit_patel@company.com,
+Sneha Kapoor,Engineering,L3,35,166621.08,,sneha_kapoor@company.com,08887536046
+Ravi Sharma,Engineering,L1,,102345.8,10,notvalid,00000
+Rohit Bose,Operations,L5,23,143510.65,10,notvalid,09532509143
+Vikram Bhat,,L1,49,124612.14,13,vikram_bhat@company.com,07637544362
+Nisha Bose,Operations,L5,,50000000,26,nisha_bose@company.com,
+Swati Sharma,HR,L4,33,142525.96,1,name.company,08112153878
+Deepak Iyer,Sales,L3,58,60760.59,,deepak_iyer@company.com,08342726255
+Suresh Patel,Finance,L1,39,188251.1,30,@company.com,
+Pooja Sharma,Operations,L5,24,174738.1,29,pooja_sharma@company.com,09298253978
+Nisha Iyer,Design,,57,,1,,1234
+Ravi Bose,Operations,L2,50,115796.74,,ravi_bose@company.com,
+Swati Reddy,,L3,0,60094.98,28,swati_reddy@company.com,07962633998
+,,L3,,72271.34,19,priya_chauhan@company.com,09197737436
+,Finance,L1,55,193226.19,8,suresh_verma@company.com,09155252343
+Sneha Patel,HR,L1,34,50000000,16,sneha_patel@company.com,
+Rohit Reddy,Engineering,L5,27,42555.02,3,,08066376612
+Suresh Sharma,Sales,L2,200,84606.98,12,suresh_sharma@company.com,07094192358
+Vikram Shah,Operations,L1,49,40740.53,15,vikram_shah@company.com,07280605593
+Ananya Bhat,Finance,L1,40,76047.91,3,ananya_bhat@company.com,09673821219
+,Design,L3,55,83099.55,2,swati_pillai@company.com,08346711339
+Meera Pillai,Engineering,L3,30,,1,meera_pillai@company.com,09384735005
+Priya Pillai,Design,L1,200,167188.91,18,name.company,08610804603
+Ravi Gupta,Finance,,,176584.8,10,name.company,07724874539
+Kavya Sharma,Operations,L3,50,113304.98,17,kavya_sharma@company.com,08325089319
+,Finance,L2,49,,20,ananya_pillai@company.com,07983127087
+Pooja Reddy,Design,L4,,159847.51,-5,,phone no
+Nisha Pillai,Design,L4,58,178685.2,19,nisha_pillai@company.com,07058497330
+Sneha Mehta,Engineering,L2,56,155020.68,10,sneha_mehta@company.com,09528628501
+Kavya Shah,Finance,L1,58,69535.32,8,kavya_shah@company.com,
+Arjun Joshi,Finance,L4,41,134512.02,15,arjun_joshi@company.com,07364500073
+Vikram Kapoor,Legal,L2,27,50000000,1,name.company,08060590511
+Arjun Verma,Marketing,L3,37,32008.6,27,arjun_verma@company.com,07445976382
+,Legal,,31,,24,suresh_desai@company.com,08560370583
+Aditya Verma,Sales,L3,,170394.81,17,aditya_verma@company.com,09040588071
+Meera Chauhan,HR,L2,57,115397.67,27,,09671894479
+Kiran Desai,Finance,L4,,106400.4,12,kiran_desai@company.com,09569324014
+Nisha Rao,Marketing,L5,29,,17,nisha_rao@company.com,07674809620
+Sneha Patel,HR,L1,34,50000000,16,sneha_patel@company.com,
+Rohit Shah,,L3,,79089.86,7,rohit_shah@company.com,08371489121
+Ananya Sharma,,L2,46,-1,7,ananya_sharma@company.com,08824526913
+Arjun Joshi,Sales,L3,49,130079.27,25,notvalid,08962989295
+Rohit Nair,,L1,50,182470.75,8,name.company,08593297377
+Meera Rao,Legal,L1,29,71534.15,29,,phone no
+Sneha Pillai,Operations,L5,-1,92438.32,6,,08263584077
+Meera Bhat,,L3,29,120810.91,28,meera_bhat@company.com,09865930113
+Suresh Kapoor,HR,L4,,142270.01,,name.company,07775714425
+Rahul Bhat,Finance,L4,23,43372.08,,rahul_bhat@company.com,08582883450
+Rohit Gupta,Design,L3,47,163289.92,,rohit_gupta@company.com,07621281728
+Swati Kumar,,L1,39,,3,swati_kumar@company.com,08261210623
+Ravi Sharma,Engineering,L1,27,67324.74,10,ravi_sharma@company.com,08972928272
+Aditya Sharma,Engineering,L1,54,190704.38,5,aditya_sharma@company.com,08944005137
+Priya Iyer,Engineering,,30,195703.18,27,priya_iyer@company.com,1234
+Arjun Joshi,Engineering,L1,52,103131.95,99,arjun_joshi@company.com,phone no
+Swati Joshi,Legal,L3,31,77434.85,,swati_joshi@company.com,09681800001
+Rohit Patel,Operations,L3,25,161696.14,12,rohit_patel@company.com,09011213193
+Arjun Reddy,Engineering,L4,40,104021.69,14,arjun_reddy@company.com,08079629894
+Divya Pillai,Finance,L5,26,39022.4,29,@company.com,08928378637
+Kiran Nair,HR,L1,54,50000000,3,notvalid,07429999517
+Swati Sharma,Engineering,L5,,105700.13,11,swati_sharma@company.com,08826329356
+Ananya Patel,Finance,L2,24,135567.03,10,ananya_patel@company.com,07357160151
+Priya Sharma,Finance,L4,26,48868.95,,priya_sharma@company.com,08490458947
+Ravi Singh,Design,,31,123626.57,22,ravi_singh@company.com,1234
+Aarav Joshi,HR,L1,40,189406.91,200,aarav_joshi@company.com,phone no
+Rahul Iyer,Marketing,L3,44,,13,rahul_iyer@company.com,N/A
+Priya Rao,Design,L5,,51302.09,6,priya_rao@company.com,08241142622
+Kiran Nair,Engineering,L2,,-1,12,kiran_nair@company.com,08680032283
+Meera Shah,Sales,L1,-1,127124.01,,meera_shah@company.com,
+Ananya Pillai,Design,L2,31,31104.19,10,ananya_pillai@company.com,08960818126
+Swati Reddy,Operations,L2,0,101243.65,5,swati_reddy@company.com,07607588846
+Sneha Kumar,Sales,L2,37,123624.23,13,sneha_kumar@company.com,09778993842
+Rahul Bose,HR,L4,29,115532.59,11,rahul_bose@company.com,09527765450
+Kiran Rao,Design,,,133471.6,29,kiran_rao@company.com,09186415480
+Priya Mehta,Marketing,L5,41,136296.25,7,priya_mehta@company.com,
+Meera Pillai,,L5,43,41289.43,5,meera_pillai@company.com,09450348080
+Suresh Iyer,Marketing,L1,31,154913.69,,emp@,07940673064
+Arjun Malhotra,HR,L4,44,99216.86,0,arjun_malhotra@company.com,08479334271
+Kiran Joshi,Legal,L2,,157149.4,6,kiran_joshi@company.com,08667552271
+Rohit Sharma,Finance,L5,28,,23,rohit_sharma@company.com,1234
+Arjun Singh,Sales,L3,27,85076.02,16,arjun_singh@company.com,09386052110
+Aditya Kumar,Legal,L4,33,43797.18,30,aditya_kumar@company.com,00000
+,Legal,L2,28,166710.92,1,ananya_rao@company.com,08094081577
+Rahul Sharma,Operations,L5,47,62261.37,12,rahul_sharma@company.com,1234
+Arjun Singh,Engineering,L5,54,131000.15,3,arjun_singh@company.com,07633588893
+,Operations,,34,143340.78,7,meera_gupta@company.com,
+Aditya Iyer,Design,L4,40,165331.23,22,aditya_iyer@company.com,08152129982
+Aditya Pillai,Legal,L5,55,167171.86,28,@company.com,
+Kiran Mehta,Legal,L5,,189791.74,12,kiran_mehta@company.com,07484651288
+Deepak Reddy,,L4,23,72393.58,2,deepak_reddy@company.com,07295012710
+Ananya Singh,Operations,L1,,129198.61,28,ananya_singh@company.com,07499693386
+Aarav Sharma,HR,L4,56,186357.93,3,aarav_sharma@company.com,phone no
+Ananya Mehta,Legal,L4,29,123865.5,-5,ananya_mehta@company.com,09851102404
+Pooja Verma,Operations,L4,26,62979.24,27,pooja_verma@company.com,07108727408
+Kiran Reddy,Marketing,,200,184874.55,1,kiran_reddy@company.com,
+Aarav Gupta,Design,L2,0,84364.06,30,aarav_gupta@company.com,
+Vikram Nair,Marketing,L3,57,,,vikram_nair@company.com,09465673094
+Kavya Patel,Marketing,L1,35,88796.75,16,kavya_patel@company.com,07115057810
+,Finance,L2,32,161045.83,22,vikram_rao@company.com,09591539231
+Meera Reddy,Legal,L1,55,35908.93,99,,08671128657
+Arjun Pillai,HR,L3,58,193666.79,20,arjun_pillai@company.com,09117397955
+Aditya Gupta,Finance,L2,36,197020.17,5,aditya_gupta@company.com,09726189424
+Kavya Mehta,Sales,L4,26,,10,kavya_mehta@company.com,08673367915
+Meera Bhat,HR,L4,29,123929.22,24,meera_bhat@company.com,07664125321
+,HR,L2,23,83593.4,,ravi_verma@company.com,09412417062
+Meera Bose,Design,L3,,0,8,meera_bose@company.com,09689548124
+Pooja Verma,Operations,L4,26,62979.24,27,pooja_verma@company.com,07108727408
+,HR,L5,47,65958.39,,aarav_bose@company.com,07258548979
+Sneha Gupta,HR,,42,64303.51,,sneha_gupta@company.com,08733163909
+Aditya Pillai,Legal,L5,55,167171.86,28,@company.com,
+Meera Kumar,Finance,L2,51,0,22,meera_kumar@company.com,09669912501
+Divya Joshi,HR,,,,0,divya_joshi@company.com,09483429155
+Ananya Verma,Operations,L5,52,-1,0,ananya_verma@company.com,08994012487
+Rohit Reddy,,L4,45,198403.31,99,rohit_reddy@company.com,08351775344
+Sneha Bose,Sales,L2,47,65001.07,,@company.com,08502227409
+Nisha Chauhan,Sales,L5,48,77887.8,7,nisha_chauhan@company.com,
+Swati Chauhan,Marketing,L5,38,190607.5,,,08158091527
+,Finance,,33,93081.89,23,sneha_patel@company.com,07800960335
+Suresh Gupta,Design,L2,,179997.26,29,suresh_gupta@company.com,07445007300
+Kavya Bhat,,L4,32,52655.74,12,,07034338107
+,Sales,L2,41,163342.73,,divya_malhotra@company.com,N/A
+Rohit Reddy,,L4,45,198403.31,99,rohit_reddy@company.com,08351775344
+Aarav Gupta,Sales,L1,31,64686.83,,aarav_gupta@company.com,09271028427
+,Marketing,L1,39,123933.58,22,rohit_bose@company.com,
+Meera Joshi,Operations,L4,41,99118.17,,meera_joshi@company.com,09488699764
+Kiran Gupta,Operations,L4,,50000000,15,kiran_gupta@company.com,09000665392
+Kavya Mehta,Operations,L4,,,27,kavya_mehta@company.com,
+Deepak Chauhan,Design,L5,46,125376.8,,deepak_chauhan@company.com,09727774287
+Vikram Sharma,Marketing,L1,37,99409.55,23,vikram_sharma@company.com,08837285131
+Meera Patel,,L3,46,43301.12,,meera_patel@company.com,08109455030
+Swati Sharma,HR,L4,33,142525.96,1,name.company,08112153878
+Suresh Singh,Finance,L3,26,138769.19,,suresh_singh@company.com,09910434160
+Kiran Pillai,Legal,L5,,,4,kiran_pillai@company.com,09693808016
+,Marketing,L3,,186096.24,21,nisha_patel@company.com,
+Deepak Chauhan,Operations,L3,34,154987.17,,deepak_chauhan@company.com,07610336215
+,Finance,L4,43,74314.42,12,sneha_pillai@company.com,
+Nisha Malhotra,Design,L5,999,33537.63,27,nisha_malhotra@company.com,09179639379
+Suresh Joshi,,,43,75561.27,,suresh_joshi@company.com,
+Rahul Bose,Finance,L2,41,84838.65,29,rahul_bose@company.com,07651266338
+Kavya Chauhan,Operations,L2,25,42919.62,,kavya_chauhan@company.com,09367492650
+Meera Mehta,HR,L1,34,46041.41,25,meera_mehta@company.com,09196282206
+Aarav Singh,HR,L5,43,121329.73,9,aarav_singh@company.com,00000
+Ananya Pillai,Operations,L4,,50187.83,4,,07480147524
+Deepak Verma,Marketing,L1,41,189402.35,18,deepak_verma@company.com,00000
+Nisha Joshi,HR,L5,999,50000000,,notvalid,08493942204
+Kavya Verma,Marketing,,38,30324.87,22,kavya_verma@company.com,09645461266
+Meera Rao,Finance,L5,36,115272.28,21,meera_rao@company.com,07921228221
+Ananya Mehta,Legal,L4,29,123865.5,-5,ananya_mehta@company.com,09851102404
+Kavya Bhat,HR,L5,53,,99,kavya_bhat@company.com,
+Aditya Rao,HR,L5,31,105581.1,14,aditya_rao@company.com,08513302909
+Arjun Pillai,Legal,L3,48,159832.29,11,@company.com,08925078968
+Aarav Bhat,Operations,,,136658.27,19,aarav_bhat@company.com,00000
+Amit Iyer,Operations,L4,40,116540.02,25,amit_iyer@company.com,
+Ananya Shah,Engineering,L3,41,164696.99,20,ananya_shah@company.com,07042575004
+Deepak Patel,Engineering,L5,34,171705.85,3,emp@,09859268793
+Ananya Gupta,Finance,,27,,13,,08157762088
+Arjun Nair,Legal,L4,26,176885.85,13,arjun_nair@company.com,08899240940
+Sneha Kapoor,Sales,L4,999,164011.47,,sneha_kapoor@company.com,08676657881
+Divya Singh,Operations,L5,35,196387.15,28,divya_singh@company.com,
+Vikram Reddy,Sales,L1,26,186218.78,8,vikram_reddy@company.com,07185825441
+Ananya Gupta,Finance,,43,133917.91,15,ananya_gupta@company.com,07765622731
+Aditya Desai,Operations,L4,47,79057.53,,aditya_desai@company.com,08401265666
+Rahul Joshi,HR,L2,0,97045.7,30,rahul_joshi@company.com,09028519189
+Deepak Iyer,Sales,L3,58,60760.59,,deepak_iyer@company.com,08342726255
+Priya Iyer,Operations,L5,28,107198.36,7,priya_iyer@company.com,
+Swati Shah,Design,,39,183221.34,10,swati_shah@company.com,07130073823
+Kavya Reddy,Engineering,L5,53,181236.15,17,kavya_reddy@company.com,09061236494
+Suresh Nair,Marketing,L3,37,166982.09,3,suresh_nair@company.com,08530041085
+Ananya Bose,,L3,37,,,,08846885864
+Kiran Desai,Marketing,L5,24,69771.93,22,notvalid,09320581916
+Deepak Chauhan,Design,L5,46,125376.8,,deepak_chauhan@company.com,09727774287
+Swati Bhat,HR,L2,42,,27,notvalid,08409463095
+Kavya Malhotra,,L5,29,153440.31,6,kavya_malhotra@company.com,08865808610
+Swati Sharma,Engineering,L5,,105700.13,11,swati_sharma@company.com,08826329356
+Pooja Sharma,Sales,L2,31,33395.78,,pooja_sharma@company.com,
+,Sales,L5,29,0,1,priya_malhotra@company.com,08980145442
+Rohit Joshi,Sales,L5,,65527.58,19,@company.com,
+Kiran Pillai,Legal,L2,54,90701.62,3,,08687438442
+Deepak Reddy,,L4,23,72393.58,2,deepak_reddy@company.com,07295012710
+Kiran Kapoor,Operations,L4,200,50000000,17,kiran_kapoor@company.com,1234
+Sneha Malhotra,Marketing,L5,43,187516.05,,sneha_malhotra@company.com,08727143543
+Aditya Chauhan,Design,L3,43,89602.85,7,aditya_chauhan@company.com,09309135789
+Amit Singh,HR,L4,40,0,30,amit_singh@company.com,09245054339
+Divya Desai,Design,L1,39,,,divya_desai@company.com,08499401504
+Priya Singh,,L5,46,98941.8,29,priya_singh@company.com,08817583480
+,,L2,37,133906.23,11,priya_verma@company.com,08153331641
+,HR,L1,53,82626.28,29,rahul_rao@company.com,09336402684
+,,L2,37,133906.23,11,priya_verma@company.com,08153331641
+Kavya Mehta,,L1,54,,0,kavya_mehta@company.com,
+Ananya Joshi,Engineering,L4,23,97890.57,-5,ananya_joshi@company.com,07136569355
+,Engineering,L3,,0,,swati_sharma@company.com,09418435096
+Sneha Joshi,Legal,L5,25,0,,sneha_joshi@company.com,08090431304
+Rohit Desai,Engineering,L4,,99200.59,,rohit_desai@company.com,08259008480
+Aditya Kumar,Finance,L1,,169959.78,15,,07097083224
+Divya Kapoor,,L2,40,170617.41,,divya_kapoor@company.com,07564415562
+,,L3,53,164497.83,16,ananya_shah@company.com,08991185344
+Amit Kumar,HR,L5,25,135350.91,2,name.company,
+Meera Mehta,HR,L1,34,46041.41,25,meera_mehta@company.com,09196282206
+Vikram Nair,Marketing,L3,57,,,vikram_nair@company.com,09465673094
+Ravi Gupta,Engineering,L3,0,,0,ravi_gupta@company.com,08252802486
+Rohit Singh,Operations,L1,48,33934.25,27,rohit_singh@company.com,09696275651
+Pooja Chauhan,Engineering,,,154619.39,26,pooja_chauhan@company.com,09351980659
+Meera Rao,Legal,L1,29,71534.15,29,,phone no
+Aarav Kumar,Sales,L2,43,77214.8,14,,09607945208
+Aditya Sharma,Finance,L5,28,55875.28,,aditya_sharma@company.com,08241185263
+Arjun Bhat,Marketing,L3,35,57160.8,11,@company.com,07374477868
+Kavya Nair,,L5,24,177267.19,,,00000
+Arjun Verma,Marketing,L3,37,32008.6,27,arjun_verma@company.com,07445976382
+Kavya Joshi,Finance,L5,-1,51265.89,8,kavya_joshi@company.com,07049513875
+Priya Shah,Finance,L2,51,67189.71,12,notvalid,08429778697
+Rahul Kapoor,Legal,L1,,120908.87,10,rahul_kapoor@company.com,07542100452
+Ananya Gupta,Finance,,27,,13,,08157762088
+Sneha Malhotra,Operations,L5,53,195504.23,10,sneha_malhotra@company.com,00000
+Deepak Iyer,,L3,39,59251.48,21,deepak_iyer@company.com,09760882665
+Ananya Gupta,Finance,,27,,13,,08157762088
+Aarav Reddy,Marketing,L3,37,129749.09,27,,07278197378
+,Finance,,33,93081.89,23,sneha_patel@company.com,07800960335
+Arjun Singh,,,26,40621.94,3,arjun_singh@company.com,09543594204
+Sneha Rao,HR,L4,29,,200,,07668245701
+Pooja Malhotra,Sales,L3,23,,,pooja_malhotra@company.com,1234
+Meera Bhat,HR,L4,29,123929.22,24,meera_bhat@company.com,07664125321
+Ravi Nair,Marketing,L1,51,,99,ravi_nair@company.com,09893675861
+Vikram Gupta,Marketing,L4,34,,1,vikram_gupta@company.com,09872859238
+Suresh Chauhan,HR,,46,189732.52,2,suresh_chauhan@company.com,08746214676
+Divya Kapoor,,L2,40,170617.41,,divya_kapoor@company.com,07564415562
+Ravi Sharma,Engineering,L1,,102345.8,10,notvalid,00000
+Nisha Verma,Finance,,36,148122.48,27,nisha_verma@company.com,09327139154
+Kiran Rao,Engineering,L2,29,42115.6,11,kiran_rao@company.com,
+Aarav Nair,Engineering,L1,40,101503.89,4,aarav_nair@company.com,09513448364
+Rohit Bhat,Design,L3,29,130686.81,15,rohit_bhat@company.com,08114962058
+Divya Reddy,Sales,L3,50,-1,14,divya_reddy@company.com,07262620615
+Priya Joshi,HR,L4,,-1,28,priya_joshi@company.com,08295852225
+Nisha Pillai,Finance,L4,34,171763.93,14,nisha_pillai@company.com,07044176304
+Amit Pillai,Design,L4,31,51314.66,13,,N/A
+Rahul Rao,Operations,L1,45,146841.71,19,rahul_rao@company.com,09481247735
+Kiran Reddy,Design,L1,53,179912.1,10,kiran_reddy@company.com,07330602715
+Arjun Bhat,Marketing,L2,26,,15,arjun_bhat@company.com,08996251619
+,HR,L3,40,98705.21,1,amit_iyer@company.com,08824636245
+Amit Sharma,,L3,34,75668.4,1,notvalid,
+Kiran Sharma,Engineering,L3,35,100255.7,8,kiran_sharma@company.com,07961543353
+Swati Patel,Legal,L3,200,134682.98,17,swati_patel@company.com,07940528371
+Ananya Rao,Sales,L1,42,125746.08,4,ananya_rao@company.com,08943741147
+Swati Iyer,,,,122842.37,,swati_iyer@company.com,08560739267
+Deepak Patel,,L2,27,162027.02,28,deepak_patel@company.com,
+Kavya Rao,Sales,L1,25,93620.72,,kavya_rao@company.com,07487573698
+Amit Kapoor,Operations,,35,71752.55,9,amit_kapoor@company.com,
+,HR,L2,26,,10,aditya_verma@company.com,09640494685
+Rohit Sharma,,L2,40,126280.73,10,rohit_sharma@company.com,09516665536
+Aditya Desai,Sales,,55,97769.11,28,aditya_desai@company.com,09666362215
+Arjun Verma,,L2,33,40675.08,,notvalid,08163531478
+Swati Bhat,Finance,L3,52,51564.47,8,,07401254394
+Aarav Shah,Design,,25,137788.05,6,aarav_shah@company.com,07730812425
+Divya Reddy,Operations,L1,56,115587.55,23,divya_reddy@company.com,09325664111
+Ravi Gupta,Finance,,,176584.8,10,name.company,07724874539
+Kavya Shah,Design,L2,58,130127.01,5,emp@,07698040624
+Pooja Patel,,L4,,50000000,,pooja_patel@company.com,09049618688
+Vikram Kapoor,Finance,L2,,50000000,7,notvalid,08803336594
+Priya Desai,,L2,48,150480.96,200,priya_desai@company.com,08988693716
+Vikram Reddy,HR,L1,39,45836.09,4,vikram_reddy@company.com,08671126301
+,Legal,L2,28,166710.92,1,ananya_rao@company.com,08094081577
+Ravi Reddy,,L4,,,1,ravi_reddy@company.com,07298334602
+Kavya Shah,Finance,L1,33,67262.76,24,kavya_shah@company.com,07722491965
+Kavya Iyer,Operations,,,94345.06,13,name.company,07742842974
+Kiran Desai,Operations,L2,28,77349.61,18,kiran_desai@company.com,07139592368
+Divya Rao,Design,L5,56,50000000,12,divya_rao@company.com,09799567903
+Amit Kumar,HR,L5,25,135350.91,2,name.company,
+Arjun Nair,Operations,L5,24,173545.28,7,,09856101270
+,Operations,L5,32,,0,sneha_pillai@company.com,07199206384
+Rohit Iyer,Operations,,56,117979.96,1,rohit_iyer@company.com,09041732734
+Ananya Sharma,,L2,46,-1,7,ananya_sharma@company.com,08824526913
+Sneha Kapoor,Finance,L2,34,180934.94,18,sneha_kapoor@company.com,00000
+,Legal,L2,42,58757.19,19,vikram_bose@company.com,09068361169
+,Design,L1,,,24,arjun_singh@company.com,09932577829
+Aarav Desai,Marketing,L5,34,116524.93,21,aarav_desai@company.com,07686070567
+Aarav Kapoor,Legal,L3,39,129843.09,6,aarav_kapoor@company.com,09950484647
+Sneha Shah,Sales,L5,49,198960.26,2,sneha_shah@company.com,08886303290
+Meera Patel,Finance,L1,52,48979.83,27,meera_patel@company.com,08618795335
+,Operations,L5,32,,0,sneha_pillai@company.com,07199206384
+Amit Patel,HR,L4,33,,,amit_patel@company.com,08271234857
+Aarav Kumar,,L2,53,177535.68,,aarav_kumar@company.com,07021098926
+Kiran Bose,Finance,L4,,,,,08653040321
+Pooja Patel,Finance,L4,35,180001.74,,pooja_patel@company.com,09706748805
+,Operations,L2,46,131434.03,30,,08969368575
+Pooja Sharma,Finance,,38,52602.79,22,pooja_sharma@company.com,07954796528
+Meera Pillai,Operations,L5,57,89887.29,,meera_pillai@company.com,08586727057
+Deepak Malhotra,,L3,27,128851.06,15,deepak_malhotra@company.com,09862926938
+Aarav Pillai,Legal,L4,27,191266.71,13,aarav_pillai@company.com,08619010862
+Meera Joshi,Sales,L5,53,,22,meera_joshi@company.com,08598453409
+Meera Singh,,L2,56,195928.2,,meera_singh@company.com,N/A
+Rohit Shah,Marketing,L1,,125883.91,200,rohit_shah@company.com,09129041675
+Divya Mehta,Finance,L3,,194835.57,1,divya_mehta@company.com,
+Swati Kapoor,Engineering,L3,48,50000000,11,swati_kapoor@company.com,08926593056
+Divya Sharma,Operations,,42,50487.72,7,,09070869458
+Rahul Patel,Marketing,L4,28,159505.18,1,rahul_patel@company.com,09671528643
+Divya Shah,Operations,,41,,200,divya_shah@company.com,
+Deepak Kumar,Design,L1,58,50000000,,deepak_kumar@company.com,09311606814
+Rahul Iyer,HR,L1,43,,25,rahul_iyer@company.com,08068915838
+Suresh Singh,Finance,L3,26,138769.19,,suresh_singh@company.com,09910434160
+Aarav Shah,Sales,L3,30,197401.05,7,aarav_shah@company.com,09344758807
+Meera Malhotra,Sales,L5,58,191248.34,22,meera_malhotra@company.com,09294277893
+Vikram Joshi,Marketing,L3,49,39433.94,14,vikram_joshi@company.com,09160959314
+Priya Chauhan,Finance,L1,30,134572.72,,priya_chauhan@company.com,08211814294
+Kiran Kapoor,Engineering,L3,,70964.7,3,kiran_kapoor@company.com,08268169042
+Aditya Iyer,Operations,L3,53,50000000,21,aditya_iyer@company.com,09751237645
+,Legal,,31,,24,suresh_desai@company.com,08560370583
+Aarav Joshi,,L5,-1,,7,notvalid,07555191967
+Swati Patel,HR,L2,26,0,99,swati_patel@company.com,09957340806
+Ananya Patel,Engineering,L5,57,,11,ananya_patel@company.com,08268199723
+Divya Nair,Marketing,L5,28,32769.3,22,divya_nair@company.com,09702610259
+Rahul Gupta,HR,L4,999,94580.65,25,rahul_gupta@company.com,
+Vikram Iyer,HR,L3,,42071.06,99,vikram_iyer@company.com,09726481225
+Divya Kumar,Marketing,L2,,0,,divya_kumar@company.com,
+Nisha Bose,Legal,L4,42,98784.67,10,,08009538345
+Priya Mehta,Marketing,L4,53,45079.37,200,emp@,phone no
+Arjun Joshi,Legal,L3,0,84767.2,26,arjun_joshi@company.com,08976498139
+Divya Sharma,Operations,,42,50487.72,7,,09070869458
+Amit Nair,Finance,L1,,61001.35,8,,09649339160
+Arjun Chauhan,Engineering,L4,,176543.01,8,,00000
+Ananya Shah,Marketing,,32,158922.57,23,ananya_shah@company.com,09116401538
+Divya Desai,Engineering,,23,91456.06,200,divya_desai@company.com,
+Aarav Desai,Marketing,L5,34,116524.93,21,aarav_desai@company.com,07686070567
+Ravi Verma,Engineering,L4,53,92360.06,14,ravi_verma@company.com,07010395346
+Aarav Nair,Finance,L2,32,126368.68,23,aarav_nair@company.com,07432975854
+Ananya Verma,Legal,L1,41,75435.18,20,emp@,09521466156
+Nisha Reddy,Engineering,L5,43,32415.03,22,,
+Amit Bose,HR,L1,44,125605.43,200,name.company,08876631770
+Divya Mehta,Finance,L3,48,156908.95,2,divya_mehta@company.com,09260679659
+Rohit Pillai,Engineering,L4,27,,18,rohit_pillai@company.com,09008063109
+Deepak Verma,Legal,,57,,29,deepak_verma@company.com,N/A
+Pooja Malhotra,Legal,L3,44,,10,pooja_malhotra@company.com,09119705781
+Suresh Malhotra,Finance,L3,26,100502.94,,suresh_malhotra@company.com,08102465757
+,Legal,L1,55,172204.56,-5,nisha_reddy@company.com,08052912964
+Arjun Joshi,Finance,L4,41,134512.02,15,arjun_joshi@company.com,07364500073
+Kiran Patel,Marketing,L1,40,66140.5,0,kiran_patel@company.com,07284385003
+Arjun Kapoor,Operations,L1,36,133596.79,9,emp@,08520149894
+Meera Bose,Operations,L1,44,136749.34,4,meera_bose@company.com,07724070404
+Arjun Nair,Operations,L5,24,173545.28,7,,09856101270
+Aditya Malhotra,Finance,L2,23,158284.48,19,aditya_malhotra@company.com,08702661548
+Rahul Kapoor,Legal,L5,40,101398.3,29,name.company,07826651494
+Nisha Kumar,Design,L5,55,162419.7,26,nisha_kumar@company.com,08341787615
+Sneha Bhat,Engineering,L2,33,,1,sneha_bhat@company.com,08840021031
+Pooja Bose,Sales,L3,27,,10,pooja_bose@company.com,09339237029
+Amit Bose,Operations,L3,55,159557.95,5,amit_bose@company.com,09171226029
+Swati Pillai,HR,L2,30,163679.72,20,swati_pillai@company.com,09350128931
+Deepak Iyer,Sales,L3,58,60760.59,,deepak_iyer@company.com,08342726255
+Nisha Gupta,Engineering,L4,23,95964.07,30,nisha_gupta@company.com,07202186969
+Nisha Reddy,Operations,L5,52,71243.77,13,,09637897746
+Meera Singh,Finance,L2,29,0,14,,00000
+Rohit Sharma,Finance,L5,28,,23,rohit_sharma@company.com,1234
+Nisha Kapoor,Marketing,L1,27,82456.69,1,nisha_kapoor@company.com,07654485921
+Amit Chauhan,HR,L1,51,106556.82,1,amit_chauhan@company.com,09743666173
+Meera Reddy,Legal,L3,0,189397.39,15,meera_reddy@company.com,09842861081
+Pooja Rao,HR,L5,48,161583.94,1,,08423466972
+Rahul Kumar,Sales,L3,57,103586.27,30,rahul_kumar@company.com,08252571193
+Rohit Desai,Operations,L5,30,105132.09,,rohit_desai@company.com,09205982307
+Aditya Desai,Legal,L1,39,64577.26,14,aditya_desai@company.com,
+Arjun Reddy,Sales,L1,,61817.98,6,arjun_reddy@company.com,07528771827
+Kavya Patel,Finance,L2,31,,18,emp@,
+Arjun Shah,Operations,L4,30,34573.3,7,arjun_shah@company.com,08966756635
+Ravi Gupta,Legal,L2,27,162990.11,28,ravi_gupta@company.com,09721745181
+Priya Sharma,Marketing,L5,0,156301.69,2,priya_sharma@company.com,
+Ravi Rao,Marketing,L1,39,76918.87,22,ravi_rao@company.com,08255894433
+Divya Desai,Engineering,,23,91456.06,200,divya_desai@company.com,
+Vikram Kumar,Finance,,200,78520.53,20,,07222339818
+Rohit Nair,HR,,39,111834.78,20,rohit_nair@company.com,09086861207
+Pooja Patel,Legal,L5,23,,6,pooja_patel@company.com,07309675734
+Kiran Nair,Engineering,L3,31,,25,kiran_nair@company.com,phone no
+Arjun Sharma,Sales,L1,,44339.93,5,arjun_sharma@company.com,09894305627
+Nisha Gupta,Finance,,31,35356.22,27,nisha_gupta@company.com,
+Vikram Verma,Operations,L2,37,62715.33,11,vikram_verma@company.com,07501410432
+Nisha Pillai,Operations,L3,51,30846.01,16,nisha_pillai@company.com,07746755818
+Meera Verma,Sales,L2,,90555.93,2,meera_verma@company.com,08647757041
+Meera Malhotra,Engineering,L5,49,47888.49,11,meera_malhotra@company.com,09497974063
+Kiran Joshi,Legal,L2,,157149.4,6,kiran_joshi@company.com,08667552271
+Vikram Kapoor,,L3,40,142089.26,10,vikram_kapoor@company.com,09872284664
+Amit Kumar,,,45,144547.84,3,amit_kumar@company.com,09816548023
+Aarav Singh,Operations,L5,50,193017.4,0,aarav_singh@company.com,08181539037
+Kavya Nair,Operations,L2,33,149430.32,,kavya_nair@company.com,09567737273
+Nisha Kumar,HR,L2,,95155.51,14,nisha_kumar@company.com,1234
+Sneha Pillai,Marketing,L5,40,35760.85,6,sneha_pillai@company.com,08167788076
+Arjun Verma,,L2,33,40675.08,,notvalid,08163531478
+,Operations,L1,26,177045.79,99,,07391447179
+Kavya Patel,Finance,,58,,3,kavya_patel@company.com,07141649633
+Kiran Shah,Operations,L2,26,,22,kiran_shah@company.com,07413039982
+Rohit Desai,,L2,31,46619.38,,,08303329770
+Amit Bhat,Operations,L3,,50000000,6,,09190761528
+Suresh Gupta,Design,L2,,179997.26,29,suresh_gupta@company.com,07445007300
+Divya Chauhan,HR,L4,30,199788.49,20,divya_chauhan@company.com,
+Amit Verma,Sales,L3,33,59835.06,23,emp@,09718699634
+Rahul Reddy,Legal,L5,41,196935.72,-5,rahul_reddy@company.com,09700108842
+Kavya Bhat,,L4,32,52655.74,12,,07034338107
+,Finance,L3,25,117031.72,3,,08757406462
+Aarav Joshi,HR,L1,40,189406.91,200,aarav_joshi@company.com,phone no
+,HR,L1,45,142132.16,4,vikram_malhotra@company.com,09388286985
+,HR,L1,58,132907.72,11,notvalid,08057741786
+Nisha Bose,Finance,L1,50,138724.62,,nisha_bose@company.com,07175813897
+Kiran Rao,Operations,L1,44,,,,08128017385
+Amit Chauhan,Marketing,L1,47,88539.99,17,amit_chauhan@company.com,09893470400
+Aditya Rao,,L5,23,86428.73,,aditya_rao@company.com,09544151733

@@ -1,0 +1,703 @@
+patient_name,age,diagnosis,doctor,ward,bill_amount,stay_days,phone
+Suresh Joshi,28,Fever,Dr. Singh,ICU,146154.11,4,N/A
+,63,COVID-19,Dr. Mehta,Pediatrics,27769.34,0,+91 9276675869
+Vikram Kumar,8,Hypertension,Dr. Rao,,61866.29,,+91 9674529902
+Meera Kumar,46,,Dr. Sharma,Pediatrics,35501.25,5,+91 9521239642
+Aarav Shah,16,,Dr. Rao,General,55159.02,,+91 9510652273
+Kiran Bhat,24,Fever,Dr. Singh,ICU,148133.56,19,
+Meera Bose,25,Appendicitis,Dr. Sharma,Surgery,3123.31,,0000
+Kavya Bose,48,Migraine,Dr. Rao,ICU,126569.58,9,+91 9168709102
+Divya Iyer,32,Fever,Dr. Mehta,Pediatrics,,18,+91 9405870200
+Vikram Chauhan,18,Anemia,Dr. Patel,Pediatrics,,-1,+91 9807417013
+Amit Patel,57,COVID-19,Dr. Mehta,ICU,-5000,13,+91 9687438209
+Sneha Kapoor,,Hypertension,Dr. Rao,Pediatrics,,,+91 9494744299
+Pooja Nair,36,Asthma,Dr. Sharma,Cardiology,23978.39,3,+91 9378800387
+Aarav Iyer,,Migraine,Dr. Mehta,Orthopedics,133798.58,9,+91 9985509949
+Meera Sharma,12,Hypertension,,Surgery,147272.69,17,+91 9398456334
+Aditya Singh,67,Fever,,Pediatrics,63084.71,11,+91 9662418344
+Kavya Reddy,61,Fever,Dr. Singh,General,121211.36,9,+91 9470898583
+,72,Appendicitis,,Pediatrics,,19,+91 9494716243
+Amit Nair,19,Diabetes,Dr. Patel,ICU,113102.68,16,+91 9348480008
+Sneha Shah,60,,Dr. Mehta,ICU,23806.95,16,+91 9840423738
+Rahul Singh,71,Diabetes,Dr. Patel,General,32134.55,17,+91 9414182167
+Priya Bose,39,Migraine,Dr. Patel,Pediatrics,,13,+91 9776607861
+Arjun Sharma,11,Asthma,Dr. Singh,Orthopedics,137879.67,9,+91 9683188962
+Amit Chauhan,56,,Dr. Iyer,ICU,58416.21,9,
+Vikram Gupta,38,Hypertension,Dr. Sharma,ICU,57381.66,1,
+Nisha Malhotra,78,Diabetes,Dr. Singh,Surgery,-5000,,+91 9474275212
+Meera Reddy,37,Asthma,Dr. Singh,,64321.56,17,+91 9614975206
+Vikram Desai,44,,Dr. Sharma,General,31168.58,,+91 9533057132
+Priya Gupta,64,Hypertension,Dr. Patel,Orthopedics,80013.06,,+91 9210413630
+,50,Asthma,Dr. Rao,Cardiology,31482.52,,+91 9872468292
+Kiran Bhat,24,Fever,Dr. Singh,ICU,148133.56,19,
+Kiran Kapoor,39,Migraine,Dr. Sharma,Pediatrics,91503.35,500,+91 9466116319
+Rahul Patel,,Asthma,Dr. Singh,Surgery,65117.43,,+91 9601561699
+Deepak Mehta,37,Appendicitis,Dr. Rao,Orthopedics,90242.32,15,
+Sneha Patel,,Diabetes,Dr. Singh,ICU,35290.44,,
+Meera Kapoor,,Anemia,Dr. Patel,Pediatrics,138138.37,4,
+Pooja Kumar,0,Appendicitis,Dr. Rao,ICU,45690.09,7,+91 9155651033
+Suresh Singh,,Anemia,Dr. Mehta,Pediatrics,55985.16,12,+91 9532326979
+Aarav Chauhan,,,,Cardiology,58219.56,7,+91 9770168441
+,66,Migraine,Dr. Mehta,,51517.09,19,N/A
+Swati Joshi,38,Pneumonia,Dr. Sharma,Pediatrics,129800.52,7,
+Priya Gupta,53,COVID-19,Dr. Singh,Surgery,32402.68,,+91 9906495656
+Aditya Pillai,36,Asthma,Dr. Patel,Cardiology,59326.11,8,+91 9124637806
+Divya Pillai,,COVID-19,Dr. Rao,,75712.88,-1,
+,8,Pneumonia,Dr. Singh,ICU,123937.42,4,+91 9799760128
+,6,Diabetes,Dr. Mehta,,0,3,+91 9659463658
+Aditya Kumar,47,COVID-19,Dr. Rao,Orthopedics,103075.54,,+91 9858359280
+Rohit Gupta,22,Migraine,Dr. Sharma,General,53620.94,19,+91 9592701395
+Rohit Patel,49,Fever,Dr. Iyer,Cardiology,38187.02,14,+91 9317758061
+Amit Patel,,COVID-19,Dr. Mehta,Orthopedics,82665.29,,+91 9827381798
+Meera Desai,57,Pneumonia,Dr. Iyer,General,114105.28,16,+91 9840966807
+Rohit Kapoor,,Migraine,Dr. Rao,Surgery,21450.65,1,+91 9178552321
+Priya Kapoor,21,Asthma,Dr. Rao,Cardiology,70568.55,6,+91 9158133519
+Suresh Kapoor,72,Pneumonia,Dr. Mehta,General,,6,+91 9531126807
+Ananya Kumar,55,Pneumonia,Dr. Rao,ICU,83443.95,18,+91 9100725588
+Suresh Nair,68,Diabetes,Dr. Sharma,ICU,136995.97,-1,+91 9177781684
+Swati Kumar,22,,Dr. Patel,Surgery,,15,+91 9222568433
+Deepak Mehta,,Asthma,Dr. Patel,Surgery,,8,+91 9931013283
+Priya Desai,,Diabetes,Dr. Patel,Cardiology,,6,+91 9302972197
+,75,Fracture,Dr. Patel,Pediatrics,86619.19,20,+91 9535795587
+Aarav Gupta,38,Migraine,Dr. Iyer,Cardiology,64674.23,19,+91 9356858396
+Aditya Shah,55,COVID-19,Dr. Singh,Pediatrics,102386.82,,+91 9682773536
+Suresh Kapoor,73,Migraine,Dr. Singh,Orthopedics,31396.74,9,+91 9944550454
+Ravi Joshi,60,Appendicitis,Dr. Sharma,Surgery,-1,16,contact
+,48,Diabetes,Dr. Singh,General,,11,+91 9487812085
+Deepak Joshi,999,Anemia,Dr. Rao,Cardiology,,19,+91 9781757573
+Rahul Singh,,Diabetes,Dr. Singh,Surgery,5427.63,18,+91 9325182695
+Ravi Chauhan,47,Hypertension,Dr. Mehta,ICU,37372.09,1,+91 9279175108
+Sneha Patel,72,Fever,Dr. Sharma,ICU,83993.07,12,
+Divya Iyer,50,Fever,Dr. Iyer,,105383.57,14,+91 9300228129
+Ravi Iyer,59,Fracture,,Surgery,,0,
+Suresh Rao,7,Fever,Dr. Sharma,Orthopedics,-1,2,+91 9134881693
+Meera Iyer,63,Fever,Dr. Mehta,Orthopedics,92901.01,8,
+Sneha Mehta,32,Fever,Dr. Sharma,,9999999,3,+91 9798160783
+Meera Singh,,Anemia,Dr. Singh,Surgery,67351.39,20,+91 9218325394
+Meera Reddy,,Hypertension,Dr. Mehta,Cardiology,98669.74,19,+91 9227455659
+Kiran Kumar,62,Fracture,Dr. Sharma,General,126594.23,20,+91 9157525925
+Pooja Verma,30,Fracture,Dr. Singh,Pediatrics,121297.67,,+91 9952494785
+Pooja Joshi,63,Anemia,Dr. Mehta,General,55129.76,15,+91 9574670032
+Aarav Mehta,5,Migraine,Dr. Iyer,Orthopedics,38117.3,,+91 9899697241
+Priya Verma,6,Fever,Dr. Singh,,103356.93,12,+91 9173881388
+Pooja Mehta,130,Hypertension,Dr. Rao,ICU,9999999,6,
+Ananya Malhotra,20,Migraine,Dr. Rao,Pediatrics,126482.22,19,---
+Kavya Patel,0,Hypertension,,Cardiology,108156.16,16,
+Vikram Bhat,5,Hypertension,Dr. Mehta,Orthopedics,113514.28,10,
+Pooja Bhat,19,Asthma,Dr. Sharma,Pediatrics,113012.37,8,---
+Vikram Kapoor,72,Appendicitis,Dr. Mehta,ICU,,10,
+Pooja Reddy,17,Fracture,Dr. Iyer,Cardiology,17135.38,17,+91 9745281780
+Swati Pillai,80,Anemia,Dr. Mehta,ICU,,0,+91 9681198951
+Arjun Chauhan,,Fracture,Dr. Patel,General,58728.66,9,
+Amit Singh,62,Migraine,Dr. Iyer,General,127501.38,15,
+Kavya Gupta,18,,,Orthopedics,128342.76,14,N/A
+Nisha Singh,,Migraine,Dr. Patel,ICU,112664.22,5,+91 9683769385
+Kiran Reddy,36,,Dr. Rao,General,26888.12,12,+91 9581714224
+,,COVID-19,Dr. Iyer,Orthopedics,0,,+91 9322459429
+Vikram Reddy,20,,Dr. Mehta,Pediatrics,92860.19,9,+91 9909937390
+,53,Diabetes,Dr. Sharma,ICU,136717.67,,+91 9103454272
+Kiran Malhotra,33,Migraine,Dr. Rao,Cardiology,90459.89,4,+91 9398985184
+Deepak Mehta,,Hypertension,Dr. Iyer,Cardiology,126770.32,,+91 9552015070
+,38,Hypertension,Dr. Rao,Cardiology,116338.93,8,+91 9518342483
+Deepak Patel,80,Appendicitis,Dr. Singh,Orthopedics,81680.14,9,+91 9134478330
+Rohit Reddy,56,Hypertension,Dr. Rao,ICU,144522.68,14,+91 9613483794
+Kavya Verma,,Asthma,Dr. Iyer,ICU,0,6,+91 9565874575
+,,COVID-19,Dr. Iyer,Orthopedics,0,,+91 9322459429
+Aditya Gupta,8,Appendicitis,Dr. Rao,Surgery,3083.78,15,+91 9853285439
+Swati Shah,18,Pneumonia,Dr. Rao,Orthopedics,,7,+91 9443510404
+Rohit Kumar,8,Pneumonia,Dr. Patel,Surgery,93242.43,19,0000
+Rahul Rao,34,Hypertension,Dr. Sharma,Surgery,0,20,+91 9997406198
+Nisha Joshi,39,Fever,Dr. Singh,Cardiology,,8,+91 9607493145
+Divya Mehta,41,,Dr. Rao,Pediatrics,141678.94,18,+91 9122359121
+Nisha Chauhan,52,Anemia,Dr. Iyer,General,38813.32,,+91 9553064757
+Vikram Sharma,9,COVID-19,Dr. Singh,Surgery,22183.39,15,+91 9395033851
+Aditya Bhat,7,,Dr. Patel,Cardiology,128296.18,14,+91 9191271843
+,,Pneumonia,Dr. Patel,Pediatrics,9999999,3,+91 9642436315
+Vikram Iyer,60,Pneumonia,Dr. Mehta,Surgery,49982.36,11,+91 9538654121
+Amit Reddy,14,Asthma,Dr. Sharma,ICU,135127.28,4,+91 9135747571
+Ananya Shah,70,Hypertension,Dr. Iyer,Pediatrics,114567.49,10,
+Rohit Gupta,,Migraine,Dr. Sharma,Surgery,14440.76,0,
+Vikram Pillai,46,Diabetes,Dr. Rao,Cardiology,64524.38,10,+91 9739019669
+Meera Iyer,61,Hypertension,Dr. Patel,Cardiology,126647.4,15,+91 9233178211
+Ananya Bhat,73,Diabetes,Dr. Sharma,Orthopedics,135455.87,20,+91 9632466359
+Kiran Gupta,80,Fever,,Cardiology,,1,+91 9941822352
+,44,Pneumonia,Dr. Rao,,15063.5,16,+91 9799801244
+Rahul Pillai,50,Fracture,Dr. Rao,Cardiology,44994.7,8,+91 9959519811
+Priya Sharma,,Diabetes,Dr. Sharma,Cardiology,0,10,+91 9909026155
+Priya Rao,15,,Dr. Sharma,Orthopedics,4764.79,9,+91 9485198850
+Rohit Kumar,75,Pneumonia,Dr. Sharma,ICU,112833.61,9,
+Meera Bose,17,Fever,,ICU,37870.15,7,+91 9412554199
+Pooja Bose,,Migraine,,ICU,9999999,5,
+Kavya Bose,28,Appendicitis,Dr. Mehta,,43179.44,,+91 9553474494
+,11,Anemia,Dr. Sharma,ICU,99566.17,16,+91 9837701496
+Pooja Rao,,Hypertension,Dr. Singh,Pediatrics,110518.39,6,+91 9421298214
+Meera Malhotra,,Pneumonia,Dr. Mehta,Orthopedics,137534.95,14,+91 9633542934
+Vikram Verma,58,Asthma,Dr. Mehta,Surgery,33085.53,17,+91 9491572065
+Rohit Mehta,75,Pneumonia,Dr. Singh,Orthopedics,126246.48,4,
+Priya Patel,30,Hypertension,Dr. Singh,Pediatrics,29983.63,20,
+,130,Fracture,Dr. Patel,,,10,+91 9194619281
+Divya Shah,6,Asthma,Dr. Mehta,Cardiology,107407.09,20,+91 9895000643
+Divya Nair,43,Asthma,Dr. Iyer,ICU,90450.11,,+91 9742045128
+Priya Pillai,37,COVID-19,,ICU,58465.5,19,+91 9551217125
+Ananya Pillai,,,Dr. Iyer,Surgery,21831.65,13,+91 9548183313
+Deepak Bose,53,Diabetes,Dr. Sharma,ICU,95451.22,,+91 9111942616
+Pooja Patel,30,Diabetes,Dr. Mehta,Cardiology,99829.21,9,+91 9761086303
+,70,Diabetes,Dr. Iyer,ICU,137202.07,0,+91 9147156400
+Pooja Pillai,,Appendicitis,Dr. Mehta,Cardiology,76396.12,17,+91 9521059872
+Ravi Malhotra,,Anemia,Dr. Iyer,Pediatrics,53444.02,20,---
+Vikram Kapoor,,Anemia,Dr. Sharma,Surgery,100480.55,3,N/A
+,26,COVID-19,Dr. Singh,Surgery,12865.84,,+91 9968527300
+Ravi Joshi,12,Pneumonia,Dr. Iyer,ICU,20662.0,500,+91 9374714160
+Swati Mehta,52,Asthma,Dr. Iyer,ICU,131150.37,6,+91 9101729162
+Divya Reddy,67,Anemia,Dr. Sharma,General,,11,+91 9334946399
+Ravi Nair,,Pneumonia,Dr. Sharma,Cardiology,25478.83,20,+91 9677081516
+Kavya Reddy,61,Hypertension,Dr. Iyer,Cardiology,19436.81,16,+91 9459322523
+Pooja Malhotra,59,,Dr. Mehta,Orthopedics,143401.18,17,+91 9165525688
+Aditya Gupta,21,Asthma,Dr. Iyer,,,6,+91 9540459436
+Priya Verma,6,Fever,Dr. Singh,Orthopedics,2741.19,11,+91 9570979210
+Aarav Iyer,,Migraine,Dr. Mehta,Orthopedics,133798.58,9,+91 9985509949
+Deepak Bose,13,Fracture,Dr. Iyer,Orthopedics,123509.72,15,+91 9833151318
+Vikram Kapoor,36,Anemia,Dr. Patel,Surgery,131463.28,3,+91 9514762151
+Deepak Sharma,,Hypertension,Dr. Iyer,,105151.17,20,+91 9589717357
+Sneha Reddy,40,Fracture,Dr. Sharma,,,11,+91 9610960165
+Aditya Joshi,44,Migraine,Dr. Sharma,Pediatrics,99271.92,14,+91 9287605603
+Divya Singh,49,COVID-19,Dr. Patel,Pediatrics,-5000,4,+91 9457583830
+Amit Desai,22,Pneumonia,Dr. Patel,Orthopedics,51841.44,8,+91 9795954125
+Ananya Nair,49,Migraine,Dr. Iyer,Orthopedics,107221.64,19,contact
+Meera Gupta,73,Pneumonia,Dr. Singh,,4612.64,,+91 9998373329
+Nisha Verma,20,Migraine,Dr. Rao,ICU,33583.93,10,N/A
+Ravi Rao,42,,Dr. Iyer,Surgery,86642.03,,
+,8,Diabetes,Dr. Mehta,Pediatrics,112956.29,,+91 9793858156
+Arjun Singh,51,Fever,Dr. Iyer,Orthopedics,116056.26,14,+91 9826768508
+Priya Desai,12,,Dr. Sharma,Orthopedics,33731.01,7,+91 9470876821
+Divya Chauhan,34,Fever,Dr. Singh,Pediatrics,107415.59,14,+91 9980665491
+Pooja Rao,51,Migraine,Dr. Singh,Orthopedics,122436.36,1,
+Nisha Malhotra,,COVID-19,Dr. Mehta,General,121916.68,7,0000
+Arjun Nair,44,Pneumonia,Dr. Patel,,95118.19,12,+91 9294200673
+Kiran Kumar,32,Anemia,Dr. Rao,Orthopedics,145022.93,500,+91 9986405524
+Aditya Desai,15,Fracture,Dr. Rao,General,142025.56,,
+Ravi Pillai,,Anemia,,Cardiology,86805.47,16,+91 9683539043
+Kavya Singh,68,Appendicitis,Dr. Sharma,Orthopedics,127142.21,2,+91 9210571823
+Aditya Chauhan,59,,Dr. Sharma,Orthopedics,0,,+91 9515434657
+Meera Verma,999,Asthma,Dr. Singh,Orthopedics,0,-1,+91 9148403006
+Kiran Singh,62,Hypertension,Dr. Sharma,General,111134.15,19,
+,22,Pneumonia,Dr. Rao,Pediatrics,119791.77,4,+91 9889168576
+Vikram Iyer,74,Asthma,Dr. Singh,ICU,103001.56,0,+91 9581717649
+Sneha Sharma,25,Appendicitis,Dr. Mehta,General,24280.19,7,+91 9454784757
+Sneha Desai,,Anemia,Dr. Iyer,,,17,+91 9161186030
+Meera Kapoor,80,Fever,,Pediatrics,84675.1,18,+91 9994135247
+Swati Bhat,34,Anemia,Dr. Rao,General,35691.7,19,+91 9903606476
+Divya Kapoor,40,Diabetes,Dr. Sharma,,105734.61,7,contact
+Rahul Bose,43,Migraine,Dr. Mehta,General,17910.38,19,+91 9429288079
+Swati Joshi,42,,Dr. Iyer,General,114215.34,20,+91 9835815026
+Suresh Kumar,,Migraine,Dr. Sharma,Pediatrics,6997.96,15,+91 9589857352
+Swati Mehta,-2,Diabetes,Dr. Patel,ICU,148276.69,18,+91 9285103715
+Meera Patel,23,COVID-19,,Surgery,-1,1,+91 9505708913
+Ananya Nair,22,Hypertension,Dr. Rao,Orthopedics,52857.91,,+91 9384435380
+Nisha Sharma,37,Pneumonia,Dr. Singh,ICU,0,15,+91 9425003715
+Ananya Sharma,0,Fracture,Dr. Mehta,ICU,133381.64,2,+91 9199890239
+Ravi Bose,72,Fracture,Dr. Sharma,Pediatrics,32041.44,3,+91 9269120170
+Priya Bose,39,Migraine,Dr. Patel,Pediatrics,,13,+91 9776607861
+Suresh Sharma,35,Fracture,,Orthopedics,76970.64,1,
+Ravi Iyer,,Appendicitis,Dr. Mehta,,,5,contact
+Swati Bhat,37,Diabetes,Dr. Rao,Cardiology,60939.96,11,+91 9682883878
+Ananya Kapoor,,Hypertension,,Surgery,67924.26,8,contact
+Ravi Gupta,8,Pneumonia,Dr. Mehta,Orthopedics,21342.98,18,+91 9877198580
+Ravi Bose,48,COVID-19,Dr. Mehta,Surgery,81257.88,,+91 9970325826
+Kiran Bhat,,Hypertension,Dr. Singh,,46255.96,8,+91 9270135811
+Divya Pillai,,COVID-19,Dr. Rao,,75712.88,-1,
+Ravi Bhat,35,Migraine,Dr. Iyer,Pediatrics,73042.44,9,+91 9782208721
+Ravi Singh,48,,Dr. Rao,Orthopedics,130249.25,6,
+Aarav Patel,77,COVID-19,Dr. Mehta,Pediatrics,105452.25,16,
+Suresh Chauhan,-2,Appendicitis,Dr. Iyer,General,137030.88,5,+91 9216751365
+Swati Sharma,6,Asthma,Dr. Singh,ICU,137924.14,7,+91 9755862375
+Kiran Chauhan,58,Anemia,Dr. Patel,General,,-1,+91 9278417333
+Swati Sharma,-2,Migraine,Dr. Singh,Pediatrics,62173.73,10,+91 9584912652
+Sneha Pillai,68,Diabetes,Dr. Iyer,Pediatrics,67545.45,9,+91 9341198759
+Kavya Iyer,27,Asthma,Dr. Iyer,ICU,51487.34,17,+91 9337635242
+Divya Singh,27,Anemia,,,95764.07,7,
+Suresh Mehta,18,Migraine,Dr. Singh,Orthopedics,147642.44,9,+91 9586583194
+Aarav Desai,16,Pneumonia,Dr. Singh,,9999999,2,+91 9263544419
+Rohit Gupta,,Diabetes,Dr. Patel,Orthopedics,13154.42,8,+91 9886795098
+Rohit Chauhan,65,Anemia,Dr. Singh,,75434.29,,+91 9347620008
+Rohit Kapoor,,Migraine,Dr. Rao,Surgery,21450.65,1,+91 9178552321
+,44,Fever,Dr. Iyer,Pediatrics,5548.85,2,N/A
+Nisha Malhotra,,Asthma,Dr. Sharma,ICU,7663.21,13,+91 9514328767
+Suresh Chauhan,,Diabetes,Dr. Iyer,Orthopedics,58507.8,18,+91 9272133861
+Sneha Shah,62,Fever,Dr. Patel,ICU,54052.32,15,+91 9880773239
+,18,Pneumonia,Dr. Singh,Orthopedics,,3,+91 9616261483
+Sneha Kumar,59,Migraine,Dr. Mehta,Surgery,100987.62,,
+Rahul Malhotra,49,Fever,Dr. Rao,Pediatrics,106118.87,-1,+91 9206753199
+Nisha Chauhan,52,Anemia,Dr. Iyer,General,38813.32,,+91 9553064757
+Aarav Singh,23,Diabetes,,Surgery,143385.13,-1,+91 9467328707
+Ravi Pillai,,,,ICU,47858.74,0,+91 9367072490
+Aarav Desai,40,,Dr. Sharma,Cardiology,63090.93,14,+91 9263857208
+Ananya Patel,5,,Dr. Mehta,ICU,35219.3,2,+91 9898389397
+Sneha Malhotra,26,Asthma,Dr. Mehta,Surgery,12278.56,2,+91 9960108115
+Ananya Joshi,58,Fracture,Dr. Patel,Pediatrics,92501.84,10,0000
+Pooja Rao,130,Diabetes,Dr. Rao,General,125964.53,-1,
+Rohit Sharma,38,Hypertension,Dr. Sharma,Orthopedics,125330.25,4,+91 9963543372
+Amit Kapoor,32,,,Surgery,13616.81,3,+91 9219039671
+Kiran Singh,61,Diabetes,Dr. Singh,Surgery,68664.52,500,
+Sneha Verma,50,Migraine,Dr. Singh,Surgery,72122.59,5,+91 9810164638
+Deepak Bose,72,COVID-19,,ICU,,13,+91 9760212309
+Pooja Iyer,34,Asthma,Dr. Mehta,Surgery,74358.74,8,
+Divya Sharma,12,Appendicitis,Dr. Sharma,Pediatrics,70654.11,18,+91 9782446265
+Aarav Patel,63,Diabetes,Dr. Mehta,,73970.41,,+91 9436294469
+Pooja Singh,78,Migraine,Dr. Mehta,General,-5000,9,+91 9192482457
+Rahul Kapoor,,Asthma,Dr. Sharma,Orthopedics,15663.4,17,+91 9862952290
+Swati Reddy,,Fracture,,Orthopedics,147874.48,1,+91 9880495122
+Ananya Iyer,32,Hypertension,Dr. Iyer,Orthopedics,72688.13,8,+91 9587940452
+Rohit Sharma,43,Diabetes,Dr. Rao,Cardiology,25583.39,,+91 9431290129
+Vikram Kapoor,49,,Dr. Singh,Cardiology,38053.0,16,+91 9516633610
+Ravi Chauhan,,Diabetes,Dr. Patel,General,,4,+91 9345882044
+Deepak Joshi,52,Migraine,Dr. Singh,Pediatrics,32876.64,20,+91 9209118284
+,,Migraine,Dr. Patel,,,,+91 9995233308
+Sneha Patel,15,Migraine,Dr. Mehta,,12421.15,,+91 9945873732
+Nisha Gupta,29,,Dr. Iyer,Pediatrics,125166.79,18,+91 9613325161
+Ravi Kumar,-2,Appendicitis,,ICU,90421.96,6,
+Divya Verma,69,Hypertension,,Surgery,4204.16,10,+91 9402499831
+Meera Reddy,51,Migraine,Dr. Mehta,Orthopedics,22498.43,17,0000
+Meera Sharma,,Appendicitis,Dr. Mehta,,94913.12,14,+91 9440230297
+Rohit Bose,34,Pneumonia,Dr. Rao,Orthopedics,24079.38,13,+91 9209198421
+Kiran Mehta,58,Appendicitis,Dr. Singh,Cardiology,,8,+91 9902077425
+Meera Patel,59,COVID-19,,Orthopedics,5629.23,16,+91 9458569296
+Nisha Desai,11,Pneumonia,Dr. Sharma,,9999999,13,+91 9602470450
+Amit Sharma,27,Pneumonia,Dr. Iyer,Orthopedics,89236.71,15,
+Arjun Verma,62,Hypertension,Dr. Mehta,General,,13,---
+Deepak Singh,,COVID-19,Dr. Rao,Surgery,68348.13,7,
+Kavya Joshi,-2,Asthma,Dr. Mehta,Surgery,60892.57,17,+91 9720661960
+Priya Desai,,Hypertension,,Cardiology,,12,+91 9412037985
+Aditya Kumar,,Fracture,,Orthopedics,,7,contact
+Amit Verma,,Fracture,Dr. Rao,Cardiology,9053.15,1,+91 9244569000
+Aditya Joshi,63,Fever,Dr. Sharma,General,147130.42,5,N/A
+Divya Sharma,,Diabetes,Dr. Singh,Surgery,43210.33,,+91 9568037732
+Sneha Desai,57,COVID-19,Dr. Patel,Cardiology,,10,N/A
+Kiran Mehta,47,Fever,Dr. Iyer,ICU,21707.55,18,+91 9448297368
+Divya Desai,56,Pneumonia,Dr. Iyer,Cardiology,31374.64,4,+91 9453918250
+Priya Rao,15,,Dr. Sharma,Orthopedics,4764.79,9,+91 9485198850
+Vikram Kumar,,COVID-19,Dr. Rao,ICU,123478.01,4,+91 9960036449
+Rohit Gupta,,Diabetes,Dr. Patel,Orthopedics,13154.42,8,+91 9886795098
+Divya Gupta,27,Fever,Dr. Singh,Cardiology,50614.56,10,+91 9491341724
+Rohit Singh,29,COVID-19,Dr. Sharma,ICU,4711.57,11,+91 9253326069
+Nisha Bose,64,Diabetes,,Surgery,99576.04,6,+91 9320230912
+Arjun Malhotra,78,COVID-19,Dr. Sharma,Cardiology,35637.63,16,+91 9213631271
+Sneha Nair,55,Fever,Dr. Rao,Orthopedics,102160.33,,+91 9989841411
+Aditya Rao,78,Fever,Dr. Mehta,Cardiology,136586.42,1,+91 9633049953
+Aditya Shah,40,Diabetes,Dr. Patel,Pediatrics,88066.5,14,
+Aditya Rao,48,Asthma,Dr. Rao,Orthopedics,78327.25,19,+91 9596134474
+Kiran Reddy,999,,Dr. Singh,ICU,148665.42,,+91 9844557987
+Vikram Nair,8,Diabetes,Dr. Patel,Orthopedics,81121.02,,+91 9311925772
+Priya Mehta,33,Fracture,Dr. Iyer,Pediatrics,48629.03,8,+91 9820450439
+Ravi Desai,14,COVID-19,,General,88603.69,11,+91 9846100995
+Aditya Iyer,,Anemia,Dr. Patel,,115363.76,,+91 9811538592
+Sneha Gupta,26,,Dr. Iyer,ICU,99119.86,12,+91 9404173231
+,8,Diabetes,Dr. Mehta,Pediatrics,112956.29,,+91 9793858156
+Arjun Reddy,32,Migraine,Dr. Mehta,Pediatrics,75766.01,,+91 9434592383
+Suresh Patel,8,Fever,Dr. Patel,Orthopedics,57800.39,5,
+Sneha Bhat,9,Anemia,Dr. Mehta,Cardiology,11935.99,4,+91 9159932982
+Rohit Kapoor,,Fever,Dr. Sharma,Cardiology,96008.58,20,
+Priya Kapoor,21,Asthma,Dr. Rao,Cardiology,70568.55,6,+91 9158133519
+Ananya Joshi,24,Asthma,Dr. Iyer,Cardiology,,6,+91 9719464706
+Deepak Bose,72,COVID-19,,ICU,,13,+91 9760212309
+Aarav Bose,58,Diabetes,Dr. Iyer,Pediatrics,133145.25,15,+91 9773909556
+Vikram Kumar,8,Hypertension,Dr. Rao,,61866.29,,+91 9674529902
+Amit Verma,6,COVID-19,Dr. Singh,Pediatrics,49075.9,2,+91 9192782684
+,23,Hypertension,Dr. Iyer,Cardiology,113871.64,0,+91 9310319325
+Rohit Pillai,53,Anemia,Dr. Sharma,Surgery,96124.66,19,
+,15,Hypertension,Dr. Sharma,Orthopedics,,17,+91 9854251327
+Sneha Patel,,Diabetes,Dr. Singh,ICU,35290.44,,
+Swati Sharma,11,Diabetes,Dr. Mehta,Pediatrics,84179.57,-1,
+Kavya Chauhan,65,COVID-19,Dr. Sharma,Pediatrics,41816.5,11,+91 9743328230
+Deepak Verma,,Migraine,Dr. Singh,General,53684.84,15,+91 9951847913
+Pooja Reddy,55,,Dr. Patel,Pediatrics,80968.83,13,+91 9105152336
+Deepak Pillai,71,,Dr. Singh,Orthopedics,92616.62,7,+91 9955733342
+,54,COVID-19,Dr. Rao,General,56969.82,5,+91 9202308035
+Suresh Joshi,28,Fever,Dr. Singh,ICU,146154.11,4,N/A
+Deepak Kapoor,46,Fracture,Dr. Mehta,ICU,54830.95,,---
+Suresh Verma,24,Anemia,Dr. Iyer,ICU,3280.48,10,
+Divya Desai,37,Asthma,Dr. Singh,Pediatrics,0,19,
+Kavya Desai,48,Appendicitis,Dr. Singh,ICU,93981.22,14,+91 9559408494
+Nisha Verma,62,Hypertension,,Surgery,2632.17,5,+91 9724106683
+Rohit Bose,31,Fever,Dr. Sharma,Orthopedics,,9,+91 9666920492
+Suresh Kapoor,56,Fracture,Dr. Iyer,,-1,1,+91 9460012610
+Meera Rao,11,Anemia,Dr. Iyer,ICU,,16,+91 9544374888
+,75,Anemia,Dr. Sharma,Orthopedics,94866.01,7,+91 9556187205
+Rohit Joshi,74,Anemia,Dr. Sharma,ICU,84524.9,2,contact
+Rohit Gupta,,Diabetes,Dr. Patel,Orthopedics,13154.42,8,+91 9886795098
+Nisha Sharma,26,Asthma,Dr. Iyer,Orthopedics,28051.05,6,+91 9661901527
+Nisha Shah,27,Fracture,Dr. Iyer,Orthopedics,148541.97,,+91 9147734287
+Kavya Joshi,25,Fever,Dr. Patel,Pediatrics,79397.23,5,+91 9904202650
+Aarav Rao,999,Anemia,Dr. Sharma,ICU,125011.95,3,+91 9107788016
+,36,Migraine,Dr. Rao,ICU,143197.89,15,+91 9866476704
+Meera Gupta,26,Anemia,Dr. Mehta,Surgery,106959.5,2,+91 9263630732
+Pooja Patel,42,Migraine,Dr. Patel,Orthopedics,81540.68,12,+91 9552395117
+Arjun Verma,8,Fever,Dr. Patel,Pediatrics,27108.65,18,+91 9829313436
+,40,Appendicitis,Dr. Iyer,Cardiology,65822.68,7,
+Rahul Singh,71,Diabetes,Dr. Patel,General,32134.55,17,+91 9414182167
+Suresh Mehta,,Appendicitis,Dr. Singh,,,9,+91 9552846118
+Meera Bose,-2,Fever,Dr. Iyer,Orthopedics,,13,
+Deepak Bose,53,Diabetes,Dr. Sharma,ICU,95451.22,,+91 9111942616
+Sneha Iyer,32,Appendicitis,Dr. Rao,Surgery,-1,16,+91 9923502636
+Divya Iyer,,Pneumonia,Dr. Sharma,Orthopedics,56886.33,11,+91 9796362685
+Divya Kumar,76,Pneumonia,Dr. Rao,Cardiology,,12,
+Rohit Chauhan,28,Pneumonia,Dr. Patel,Surgery,107158.82,2,+91 9143336417
+Arjun Shah,12,Pneumonia,Dr. Iyer,ICU,27500.82,6,+91 9405493897
+Aarav Bose,37,Hypertension,Dr. Sharma,General,55531.22,6,+91 9713830417
+Meera Gupta,46,Diabetes,Dr. Mehta,,-5000,7,+91 9895658237
+Kavya Bhat,59,Hypertension,Dr. Rao,Pediatrics,,4,0000
+Amit Patel,,COVID-19,Dr. Mehta,Orthopedics,82665.29,,+91 9827381798
+Vikram Joshi,46,Asthma,Dr. Iyer,Cardiology,32620.78,,+91 9562823666
+Pooja Rao,,Anemia,Dr. Patel,Surgery,54847.91,20,
+,75,Hypertension,Dr. Sharma,General,133402.77,16,+91 9444734951
+Swati Iyer,,Hypertension,Dr. Singh,Orthopedics,,2,+91 9632502377
+Sneha Pillai,8,Anemia,Dr. Iyer,Orthopedics,109757.22,2,
+Ananya Bhat,,,Dr. Sharma,Pediatrics,,,+91 9366093190
+Rohit Verma,11,Fever,Dr. Rao,ICU,33997.99,1,+91 9536176278
+Pooja Patel,42,Migraine,Dr. Patel,Orthopedics,81540.68,12,+91 9552395117
+Meera Bhat,47,Diabetes,Dr. Sharma,Pediatrics,,11,
+Swati Reddy,8,Appendicitis,Dr. Sharma,ICU,117186.25,,+91 9321396713
+Meera Reddy,37,Asthma,Dr. Singh,,64321.56,17,+91 9614975206
+Kavya Bose,,Diabetes,Dr. Mehta,Surgery,55035.84,17,+91 9904551228
+Rohit Reddy,73,Hypertension,Dr. Singh,Pediatrics,137780.07,13,+91 9654477082
+Kavya Pillai,69,Migraine,Dr. Sharma,Surgery,138885.1,8,+91 9196105103
+Rahul Rao,34,Hypertension,Dr. Sharma,Surgery,0,20,+91 9997406198
+Rahul Reddy,0,Diabetes,Dr. Mehta,General,,,+91 9932618405
+,54,Fever,,Surgery,99401.79,19,+91 9829264190
+Rahul Patel,74,Fever,Dr. Patel,Cardiology,,1,+91 9976437994
+Ravi Bose,47,COVID-19,Dr. Singh,,20368.81,20,+91 9373893329
+Rahul Reddy,21,Fracture,Dr. Sharma,General,145149.91,3,
+Suresh Joshi,,Fracture,Dr. Patel,Surgery,,16,+91 9837501242
+Kiran Bhat,56,Fever,Dr. Mehta,Surgery,131345.6,19,contact
+Kiran Singh,62,Hypertension,Dr. Sharma,General,111134.15,19,
+Amit Joshi,32,Asthma,Dr. Patel,Cardiology,55161.61,16,
+Rohit Nair,71,Hypertension,Dr. Sharma,,144048.31,17,N/A
+Rohit Singh,79,Fever,Dr. Mehta,Orthopedics,69706.53,6,+91 9424241738
+Kavya Rao,,Anemia,Dr. Singh,Orthopedics,,,+91 9160672962
+,75,Fracture,Dr. Patel,Pediatrics,86619.19,20,+91 9535795587
+Rahul Bhat,,Migraine,Dr. Iyer,Orthopedics,21772.39,1,+91 9302842616
+Priya Malhotra,70,,Dr. Iyer,Cardiology,115029.6,19,+91 9139282259
+Suresh Desai,43,Migraine,Dr. Iyer,ICU,93122.23,,+91 9822840441
+Kavya Malhotra,,COVID-19,Dr. Singh,Pediatrics,72541.1,,+91 9458462604
+Ananya Verma,49,,Dr. Patel,ICU,37745.27,2,+91 9595474385
+,56,Pneumonia,Dr. Mehta,ICU,52704.51,16,+91 9717139426
+Vikram Joshi,22,Fever,Dr. Rao,Surgery,21168.73,12,+91 9271090952
+,0,,Dr. Iyer,Cardiology,9999999,5,+91 9369491264
+Aarav Desai,5,Pneumonia,Dr. Mehta,Cardiology,84671.29,10,+91 9807190562
+Amit Malhotra,31,,Dr. Patel,Cardiology,9999999,16,+91 9772094592
+Sneha Desai,58,Migraine,Dr. Sharma,General,134259.52,13,+91 9858083761
+Kavya Reddy,0,Fracture,Dr. Iyer,Pediatrics,31336.41,,+91 9668352436
+Deepak Chauhan,64,Asthma,Dr. Rao,Cardiology,33261.58,1,+91 9201579310
+Arjun Nair,6,,Dr. Iyer,Cardiology,79553.2,2,+91 9591497426
+Swati Iyer,16,Diabetes,Dr. Rao,Orthopedics,51572.46,16,contact
+Aditya Chauhan,48,Appendicitis,Dr. Mehta,ICU,,10,
+Arjun Bhat,31,Migraine,Dr. Rao,Cardiology,111949.95,13,+91 9595214336
+,-2,COVID-19,Dr. Mehta,General,91274.81,17,+91 9873091397
+Amit Bose,30,,Dr. Singh,,55733.96,3,+91 9562509442
+,66,Migraine,Dr. Mehta,,51517.09,19,N/A
+Rahul Kapoor,130,Anemia,Dr. Rao,Cardiology,42241.22,19,+91 9373741451
+Kiran Gupta,69,Diabetes,Dr. Iyer,Surgery,59570.68,3,+91 9575132962
+Meera Verma,999,Asthma,Dr. Singh,Orthopedics,0,-1,+91 9148403006
+Divya Rao,,Migraine,,Surgery,28167.01,4,0000
+Rahul Nair,13,Fracture,,Cardiology,112794.41,9,+91 9746021462
+Arjun Verma,8,Fever,Dr. Patel,Pediatrics,27108.65,18,+91 9829313436
+Aarav Shah,,,Dr. Patel,Pediatrics,,14,+91 9725818523
+Ananya Nair,49,Migraine,Dr. Iyer,Orthopedics,107221.64,19,contact
+,33,Pneumonia,Dr. Iyer,,9999999,16,N/A
+Ananya Kumar,42,COVID-19,Dr. Mehta,ICU,137175.4,0,+91 9460823361
+Ravi Kumar,-2,Appendicitis,,ICU,90421.96,6,
+Swati Rao,31,Hypertension,Dr. Rao,Surgery,87320.15,0,+91 9144397688
+Ananya Gupta,,Diabetes,,Pediatrics,17720.09,6,
+Kiran Desai,16,Hypertension,Dr. Sharma,Pediatrics,9113.81,18,+91 9230393925
+Kavya Nair,50,Asthma,Dr. Patel,Orthopedics,108655.21,14,+91 9337470604
+Aarav Bose,54,,Dr. Patel,Orthopedics,9163.54,1,N/A
+Aarav Verma,37,Migraine,Dr. Mehta,Orthopedics,105817.45,,0000
+Kiran Malhotra,9,Fracture,,Pediatrics,40816.81,20,+91 9834715360
+Deepak Sharma,42,Anemia,Dr. Iyer,Pediatrics,136339.76,,+91 9773344310
+Pooja Bose,,Migraine,,ICU,9999999,5,
+,22,Migraine,Dr. Mehta,Pediatrics,148405.82,13,+91 9443778611
+Deepak Mehta,37,Appendicitis,Dr. Rao,Orthopedics,90242.32,15,
+Ananya Pillai,22,Asthma,Dr. Patel,Pediatrics,3165.94,,+91 9389983642
+Ananya Mehta,68,Appendicitis,Dr. Mehta,ICU,11310.01,16,
+Kiran Malhotra,44,Hypertension,Dr. Patel,ICU,,2,contact
+Aarav Nair,34,Fracture,Dr. Rao,ICU,20777.56,-1,+91 9257715469
+Rohit Verma,8,Asthma,Dr. Patel,Orthopedics,34921.94,,
+Nisha Gupta,34,Anemia,Dr. Sharma,Orthopedics,130093.09,17,+91 9217090774
+Deepak Reddy,32,Pneumonia,Dr. Sharma,Pediatrics,68845.46,12,+91 9547762700
+,,Pneumonia,Dr. Rao,Surgery,19279.76,17,+91 9913066364
+Kavya Sharma,38,Anemia,Dr. Patel,Pediatrics,,18,+91 9686243661
+,54,COVID-19,Dr. Rao,General,56969.82,5,+91 9202308035
+Sneha Sharma,54,Appendicitis,Dr. Singh,ICU,89450.4,13,+91 9478523220
+,0,,Dr. Iyer,Cardiology,9999999,5,+91 9369491264
+Priya Desai,,Hypertension,,Cardiology,,12,+91 9412037985
+Rahul Rao,34,Appendicitis,Dr. Sharma,Pediatrics,26364.89,20,N/A
+Nisha Singh,,Migraine,Dr. Patel,ICU,112664.22,5,+91 9683769385
+Rahul Kapoor,,Asthma,Dr. Sharma,Orthopedics,15663.4,17,+91 9862952290
+Meera Malhotra,21,,Dr. Sharma,,142981.56,4,+91 9299948686
+,8,Pneumonia,Dr. Singh,ICU,123937.42,4,+91 9799760128
+Nisha Joshi,55,Appendicitis,Dr. Patel,,109012.45,1,+91 9337490289
+Kavya Kapoor,24,Fracture,Dr. Iyer,Cardiology,81737.38,7,+91 9640570280
+Vikram Joshi,6,,Dr. Iyer,Orthopedics,149748.4,6,+91 9139389140
+Aarav Rao,42,Migraine,Dr. Iyer,ICU,34592.46,13,+91 9947131286
+Aditya Joshi,48,Appendicitis,,Orthopedics,15552.71,10,
+Aarav Shah,76,Fever,Dr. Patel,Surgery,94636.02,3,+91 9880193053
+Deepak Rao,68,Fever,Dr. Mehta,ICU,114933.23,13,
+Divya Kumar,67,COVID-19,Dr. Mehta,Orthopedics,53214.81,500,+91 9800463241
+Ananya Singh,51,Diabetes,Dr. Mehta,General,,11,+91 9100239019
+Rohit Sharma,72,,Dr. Patel,Surgery,124176.74,1,+91 9775212408
+Deepak Bose,53,Fever,,Pediatrics,-1,-1,+91 9917842791
+Aditya Iyer,65,,Dr. Singh,Cardiology,67701.85,16,+91 9227286713
+Suresh Sharma,80,Pneumonia,Dr. Patel,Orthopedics,83670.05,18,contact
+Swati Shah,32,Fever,Dr. Patel,Surgery,42188.2,6,+91 9261470063
+Kiran Malhotra,61,Migraine,Dr. Patel,Orthopedics,40373.88,9,contact
+Arjun Verma,8,Fever,Dr. Patel,Pediatrics,27108.65,18,+91 9829313436
+Rahul Verma,75,Diabetes,Dr. Patel,Orthopedics,3079.12,7,+91 9673032343
+,,Fever,Dr. Mehta,Surgery,-1,7,+91 9858624225
+Swati Reddy,31,Appendicitis,Dr. Patel,Pediatrics,43607.63,13,0000
+Arjun Patel,,Hypertension,Dr. Mehta,General,5129.95,500,+91 9218299514
+Nisha Joshi,35,Diabetes,Dr. Patel,,41010.69,11,+91 9803623828
+Kavya Reddy,9,Anemia,Dr. Mehta,Cardiology,61716.18,11,N/A
+Sneha Joshi,77,Fever,Dr. Patel,Pediatrics,39525.93,19,+91 9419541115
+Nisha Sharma,67,Diabetes,Dr. Iyer,Pediatrics,127063.29,1,N/A
+Aarav Rao,37,Pneumonia,Dr. Patel,ICU,66063.21,10,+91 9107772673
+Arjun Bhat,,COVID-19,Dr. Patel,Cardiology,9999999,-1,---
+Nisha Rao,54,Appendicitis,,Cardiology,142337.02,17,+91 9770202730
+,30,Diabetes,Dr. Patel,Cardiology,133344.78,11,+91 9764983105
+,53,Diabetes,Dr. Sharma,ICU,136717.67,,+91 9103454272
+Pooja Joshi,0,COVID-19,Dr. Singh,ICU,15825.86,0,+91 9237463485
+Priya Shah,72,Diabetes,Dr. Sharma,ICU,9999999,10,+91 9861085987
+Arjun Verma,47,Pneumonia,Dr. Rao,Orthopedics,,3,+91 9621859484
+Nisha Nair,,,Dr. Iyer,Pediatrics,103463.05,17,+91 9185111005
+Divya Verma,69,Hypertension,,Surgery,4204.16,10,+91 9402499831
+,,COVID-19,Dr. Singh,Surgery,118010.44,7,+91 9457170837
+Vikram Iyer,24,Fever,Dr. Sharma,,26596.95,2,+91 9823388498
+Pooja Desai,68,COVID-19,Dr. Rao,Surgery,,5,+91 9580367803
+Kiran Iyer,41,Appendicitis,Dr. Sharma,Cardiology,,9,+91 9213304238
+Kiran Sharma,,Migraine,Dr. Patel,Surgery,94361.66,13,+91 9939922150
+Sneha Joshi,40,Diabetes,Dr. Mehta,Surgery,43871.82,18,+91 9411159701
+Vikram Joshi,52,Anemia,,Pediatrics,9999999,1,+91 9962786869
+Ravi Kapoor,46,Hypertension,Dr. Iyer,Cardiology,87704.6,8,+91 9512011420
+Ananya Kumar,55,Pneumonia,Dr. Rao,ICU,83443.95,18,+91 9100725588
+Nisha Malhotra,74,Diabetes,Dr. Mehta,,56545.97,18,contact
+Vikram Bose,60,COVID-19,Dr. Mehta,ICU,136627.76,8,+91 9783202070
+Nisha Singh,,Migraine,Dr. Patel,ICU,112664.22,5,+91 9683769385
+Suresh Shah,40,Appendicitis,Dr. Patel,,84703.17,6,+91 9743462316
+Divya Verma,77,Migraine,Dr. Sharma,Pediatrics,100235.21,9,+91 9754832124
+Vikram Chauhan,0,Migraine,Dr. Sharma,General,127339.8,13,+91 9732594903
+Arjun Rao,22,Asthma,,ICU,-1,7,+91 9859138222
+Nisha Nair,68,Diabetes,Dr. Singh,Surgery,50522.98,11,
+Rahul Nair,13,Fracture,,Cardiology,112794.41,9,+91 9746021462
+Aditya Verma,,Fracture,Dr. Mehta,Cardiology,77495.03,15,+91 9495844223
+Priya Nair,,Asthma,Dr. Iyer,Cardiology,117873.24,8,+91 9455926974
+Suresh Iyer,17,Pneumonia,Dr. Sharma,Surgery,9999999,7,+91 9994379338
+Priya Verma,,Asthma,Dr. Mehta,General,61527.34,17,+91 9183129352
+Divya Bose,57,COVID-19,Dr. Mehta,Surgery,127392.21,6,+91 9766188757
+Ravi Desai,51,Diabetes,Dr. Patel,General,3604.25,5,+91 9690299939
+Aditya Joshi,44,Migraine,Dr. Sharma,Pediatrics,99271.92,14,+91 9287605603
+Divya Rao,15,,Dr. Singh,ICU,120377.79,14,+91 9527503269
+Pooja Nair,47,Migraine,,ICU,134348.62,13,+91 9607954321
+Suresh Kapoor,-2,Pneumonia,Dr. Patel,General,116345.01,3,+91 9198042900
+Meera Sharma,52,Appendicitis,Dr. Iyer,Orthopedics,105727.71,14,---
+,47,Pneumonia,,General,,2,+91 9931951286
+,63,COVID-19,Dr. Mehta,Pediatrics,27769.34,0,+91 9276675869
+Rahul Rao,,Fever,Dr. Rao,General,48724.96,12,+91 9307777400
+Nisha Verma,20,Migraine,Dr. Rao,ICU,33583.93,10,N/A
+Pooja Patel,23,Anemia,Dr. Mehta,Cardiology,0,11,
+Amit Iyer,53,Anemia,,,-5000,16,+91 9354213395
+Rohit Pillai,75,Hypertension,Dr. Patel,Orthopedics,33358.59,10,+91 9129989456
+Rahul Gupta,47,Pneumonia,Dr. Patel,General,100264.13,13,+91 9107201027
+Suresh Singh,,Anemia,Dr. Mehta,Pediatrics,55985.16,12,+91 9532326979
+Sneha Bose,25,,Dr. Iyer,Cardiology,58687.7,3,+91 9568269550
+Rohit Bose,40,Diabetes,Dr. Sharma,General,0,5,+91 9536171464
+Priya Kumar,40,Anemia,Dr. Rao,,59083.18,4,+91 9460617862
+Deepak Iyer,54,COVID-19,Dr. Iyer,General,148592.4,-1,+91 9319743713
+Deepak Mehta,999,Pneumonia,Dr. Mehta,Pediatrics,71112.39,17,+91 9607754979
+Pooja Chauhan,35,COVID-19,Dr. Sharma,Cardiology,102357.93,18,+91 9676649804
+Rohit Bose,34,Pneumonia,Dr. Rao,Orthopedics,24079.38,13,+91 9209198421
+Ananya Iyer,32,Hypertension,Dr. Iyer,Orthopedics,72688.13,8,+91 9587940452
+Priya Pillai,37,COVID-19,,ICU,58465.5,19,+91 9551217125
+Priya Nair,,Asthma,Dr. Iyer,Cardiology,117873.24,8,+91 9455926974
+Kavya Kapoor,25,COVID-19,Dr. Rao,Surgery,112409.27,,+91 9277384653
+,52,,Dr. Singh,Surgery,144884.55,16,+91 9938565199
+Ravi Malhotra,37,,Dr. Patel,General,110607.81,8,
+,13,Anemia,Dr. Singh,General,128843.22,15,+91 9764539775
+Deepak Verma,,Hypertension,Dr. Patel,Orthopedics,57879.98,15,+91 9966065767
+Sneha Patel,,Anemia,Dr. Iyer,Orthopedics,72143.6,12,+91 9727641077
+Deepak Singh,,COVID-19,Dr. Rao,Surgery,68348.13,7,
+Rohit Reddy,41,Fracture,Dr. Patel,ICU,46679.41,11,0000
+Swati Shah,5,Hypertension,Dr. Patel,ICU,100628.38,,
+Meera Bose,72,,Dr. Mehta,Pediatrics,87557.3,4,+91 9462169922
+Kiran Joshi,,Diabetes,Dr. Singh,ICU,13485.34,3,
+Ananya Bhat,73,Diabetes,Dr. Sharma,Orthopedics,135455.87,20,+91 9632466359
+Ananya Kumar,54,COVID-19,Dr. Singh,Pediatrics,39457.74,17,+91 9460536808
+,60,Pneumonia,Dr. Sharma,General,,12,
+Sneha Shah,25,COVID-19,Dr. Singh,Orthopedics,,1,+91 9332356772
+Arjun Sharma,20,Diabetes,Dr. Mehta,Pediatrics,-5000,20,
+Amit Gupta,64,COVID-19,Dr. Mehta,ICU,99987.0,11,+91 9209286718
+Amit Sharma,17,Diabetes,Dr. Sharma,Surgery,,,+91 9672970374
+Aditya Pillai,27,Anemia,Dr. Mehta,Cardiology,37919.03,1,+91 9436225854
+Aarav Shah,22,Fever,,Cardiology,140181.0,18,+91 9858146768
+,10,Pneumonia,Dr. Rao,Surgery,0,7,+91 9949735270
+Pooja Gupta,49,Migraine,Dr. Singh,Surgery,133033.69,18,+91 9322659356
+Meera Kapoor,18,Fracture,,Orthopedics,30227.2,,+91 9772761878
+Meera Iyer,63,Fever,Dr. Mehta,Orthopedics,92901.01,8,
+Aarav Desai,5,Pneumonia,Dr. Mehta,Cardiology,84671.29,10,+91 9807190562
+Rohit Rao,74,Pneumonia,Dr. Sharma,Surgery,12797.98,9,+91 9894405783
+Kiran Chauhan,13,Hypertension,Dr. Sharma,Pediatrics,32809.03,4,+91 9855913529
+Kavya Patel,0,Hypertension,,Cardiology,108156.16,16,
+Sneha Desai,,Anemia,Dr. Iyer,,,17,+91 9161186030
+Ananya Iyer,6,Pneumonia,Dr. Iyer,General,39267.71,16,
+Vikram Mehta,32,Asthma,Dr. Mehta,ICU,78361.26,17,+91 9802056596
+Sneha Kumar,25,Pneumonia,Dr. Sharma,Pediatrics,38136.91,7,+91 9428364437
+Suresh Nair,79,Diabetes,Dr. Mehta,ICU,,17,+91 9361406986
+Aditya Sharma,74,Diabetes,,Orthopedics,40745.02,14,+91 9605283661
+,,,Dr. Iyer,,,10,contact
+Meera Nair,51,Anemia,Dr. Sharma,Surgery,21707.38,5,+91 9237335021
+Rohit Malhotra,76,Asthma,Dr. Patel,Cardiology,,15,+91 9611231014
+Amit Bose,33,Fracture,Dr. Mehta,,76988.47,9,+91 9730209882
+Aditya Singh,73,Diabetes,Dr. Patel,Orthopedics,99283.45,2,+91 9780410450
+Kiran Rao,55,Diabetes,Dr. Singh,Surgery,124431.33,8,
+Pooja Kumar,50,Asthma,Dr. Iyer,Surgery,,12,+91 9796730550
+Swati Reddy,,Asthma,Dr. Sharma,Orthopedics,,6,+91 9883743629
+,44,,Dr. Mehta,ICU,45666.68,15,+91 9628046136
+Rohit Malhotra,,,Dr. Rao,Pediatrics,20660.28,0,+91 9704463984
+Kavya Reddy,61,Fever,Dr. Singh,General,121211.36,9,+91 9470898583
+Pooja Patel,41,Fever,Dr. Mehta,Pediatrics,38152.54,13,+91 9929656484
+Priya Verma,34,Hypertension,,Pediatrics,,17,+91 9715700359
+Priya Kumar,,Appendicitis,Dr. Rao,ICU,38624.16,,+91 9975733778
+Pooja Verma,30,Fracture,Dr. Singh,Pediatrics,121297.67,,+91 9952494785
+,,Diabetes,Dr. Iyer,ICU,-5000,8,+91 9797519047
+Pooja Rao,51,Asthma,Dr. Singh,Cardiology,22141.2,4,contact
+Kiran Nair,31,Pneumonia,Dr. Sharma,ICU,61418.46,20,contact
+,26,Diabetes,Dr. Singh,General,139056.48,2,+91 9868875862
+Arjun Iyer,28,Anemia,,Pediatrics,73398.7,9,+91 9384051216
+Arjun Pillai,43,Fracture,Dr. Iyer,Cardiology,69706.22,,
+Sneha Sharma,0,Pneumonia,,Surgery,110208.57,2,0000
+Sneha Desai,42,Migraine,Dr. Mehta,ICU,0,19,+91 9823687558
+Suresh Kumar,68,Appendicitis,Dr. Sharma,Pediatrics,109434.49,10,
+Divya Gupta,61,Asthma,Dr. Rao,ICU,127800.96,9,+91 9273303427
+Vikram Malhotra,10,,Dr. Mehta,Pediatrics,,-1,+91 9317252769
+Aarav Verma,10,Migraine,Dr. Singh,Cardiology,-1,,+91 9231822872
+Divya Nair,80,Asthma,Dr. Iyer,ICU,67468.3,14,+91 9953183961
+Arjun Bhat,,COVID-19,Dr. Patel,Cardiology,9999999,-1,---
+Swati Pillai,48,,Dr. Mehta,,135585.38,4,
+Deepak Joshi,34,Fever,Dr. Mehta,ICU,92620.51,9,+91 9896798914
+Aarav Malhotra,24,Diabetes,Dr. Mehta,Orthopedics,10701.24,1,+91 9774584360
+Kiran Bose,57,Fracture,Dr. Rao,ICU,13157.16,20,+91 9769840125
+Amit Malhotra,999,,Dr. Sharma,Surgery,140965.93,1,+91 9953941730
+Ravi Nair,48,Pneumonia,Dr. Mehta,Orthopedics,52139.37,10,+91 9418553425
+Kiran Singh,,Appendicitis,Dr. Iyer,ICU,,8,+91 9390329289
+Vikram Shah,30,Appendicitis,Dr. Mehta,Pediatrics,118048.52,13,+91 9135983523
+Rahul Kapoor,,COVID-19,Dr. Mehta,General,10081.01,14,+91 9262388630
+Ravi Patel,14,Appendicitis,Dr. Sharma,ICU,132064.56,9,
+Priya Desai,,,Dr. Mehta,Orthopedics,126024.42,19,+91 9563974034
+,31,Anemia,Dr. Mehta,ICU,55902.47,6,+91 9265677515
+Pooja Patel,23,Anemia,Dr. Mehta,Cardiology,0,11,
+Arjun Shah,28,Migraine,,General,,1,+91 9458247947
+Meera Pillai,48,Fracture,Dr. Sharma,,49830.24,,
+Ravi Verma,53,Appendicitis,Dr. Rao,ICU,-5000,9,+91 9185195899
+,69,Anemia,Dr. Patel,ICU,,16,+91 9958983505
+Ravi Shah,13,Anemia,Dr. Sharma,Surgery,,9,+91 9888140627
+Meera Bose,,Asthma,Dr. Rao,General,48478.4,1,+91 9982831417
+Pooja Desai,14,Appendicitis,Dr. Mehta,Cardiology,142691.02,13,+91 9418580153
+Ananya Desai,62,Migraine,Dr. Singh,Pediatrics,108497.35,9,contact
+Kavya Kumar,67,Appendicitis,Dr. Sharma,,,5,+91 9638244493
+Pooja Joshi,0,COVID-19,Dr. Singh,ICU,15825.86,0,+91 9237463485
+Pooja Patel,41,Fever,Dr. Mehta,Pediatrics,38152.54,13,+91 9929656484
+Priya Reddy,26,Asthma,Dr. Patel,Cardiology,36359.61,,+91 9959429776
+Vikram Kumar,,COVID-19,Dr. Rao,ICU,123478.01,4,+91 9960036449
+Divya Iyer,24,,Dr. Singh,General,42919.06,15,+91 9471989376
+Rohit Rao,47,Migraine,Dr. Patel,Orthopedics,65939.87,7,+91 9682622114
+Ananya Patel,20,COVID-19,Dr. Mehta,Cardiology,65960.42,14,+91 9429122106
+Rahul Singh,67,Anemia,Dr. Rao,,73245.2,20,N/A
+Amit Iyer,53,Anemia,,,-5000,16,+91 9354213395
+Kiran Gupta,6,Anemia,Dr. Rao,General,137435.83,12,contact
+Priya Singh,,Migraine,Dr. Rao,Cardiology,,,+91 9409182728
+,72,,Dr. Iyer,Surgery,9999999,17,+91 9908552861
+Nisha Gupta,29,,Dr. Iyer,Pediatrics,125166.79,18,+91 9613325161
+Priya Bose,77,Anemia,Dr. Mehta,ICU,0,,+91 9112911352
+Ravi Rao,67,Pneumonia,Dr. Singh,Pediatrics,60879.87,15,+91 9341851653
+Meera Bose,,COVID-19,Dr. Iyer,ICU,91868.04,,+91 9174060410
+Deepak Kapoor,,Appendicitis,Dr. Patel,Pediatrics,29963.69,19,+91 9241301717
+,45,Hypertension,Dr. Singh,ICU,14472.82,,+91 9300760819
+Aditya Joshi,,Fever,Dr. Patel,Surgery,44935.01,6,+91 9704975281
+Arjun Mehta,61,,Dr. Rao,Surgery,25267.16,17,
+Swati Patel,12,Fever,Dr. Iyer,ICU,52631.76,14,+91 9610933968
+Aarav Rao,42,Migraine,Dr. Iyer,ICU,34592.46,13,+91 9947131286
+Kiran Singh,64,Fever,Dr. Singh,General,123008.61,4,
+Meera Rao,62,Fracture,Dr. Rao,Orthopedics,126765.12,17,0000
+Vikram Bhat,,,Dr. Patel,General,42406.34,14,
+Vikram Iyer,24,Fever,Dr. Sharma,,26596.95,2,+91 9823388498
+,11,Anemia,Dr. Sharma,ICU,99566.17,16,+91 9837701496
+Amit Rao,,Diabetes,Dr. Iyer,Orthopedics,95799.82,14,+91 9832588799
+Kavya Pillai,53,Fracture,Dr. Rao,ICU,50454.37,6,+91 9778612628
+Aditya Bhat,27,Fever,Dr. Singh,Cardiology,39208.02,14,N/A
+Nisha Kapoor,54,Asthma,Dr. Iyer,Orthopedics,143447.88,20,+91 9391885050
+Rahul Kumar,71,COVID-19,Dr. Iyer,Surgery,9999999,500,+91 9680070059
+Swati Kumar,22,,Dr. Patel,Pediatrics,91165.24,,0000
+Sneha Patel,,Anemia,Dr. Iyer,Orthopedics,72143.6,12,+91 9727641077
+Meera Bose,17,Fever,,ICU,37870.15,7,+91 9412554199
+Priya Singh,,COVID-19,Dr. Mehta,ICU,16457.11,16,
+Pooja Pillai,48,Fever,,Surgery,127790.53,9,
+Pooja Patel,75,Fracture,Dr. Patel,ICU,80889.73,2,0000
+Sneha Mehta,31,Migraine,Dr. Iyer,Cardiology,3867.59,20,+91 9330526974
+Priya Mehta,16,,Dr. Patel,,85471.93,,+91 9900058673
+Pooja Kapoor,57,,Dr. Mehta,ICU,49339.08,17,+91 9375510938
+Suresh Kumar,,Migraine,Dr. Sharma,Pediatrics,6997.96,15,+91 9589857352
+Kiran Joshi,,Diabetes,Dr. Singh,ICU,13485.34,3,
+Ravi Malhotra,37,,Dr. Patel,General,110607.81,8,
+Kavya Bhat,26,,Dr. Patel,ICU,,6,
+Vikram Pillai,-2,Pneumonia,,,,3,+91 9603653345
+Pooja Bose,60,Asthma,Dr. Patel,ICU,9999999,,
+Sneha Singh,40,Pneumonia,,Pediatrics,75977.44,15,+91 9176479062
+Divya Nair,14,Anemia,Dr. Patel,General,21082.58,7,+91 9370134712
+Arjun Patel,50,Fracture,Dr. Sharma,Surgery,79571.89,8,+91 9639052001
+Aarav Mehta,0,COVID-19,Dr. Sharma,Pediatrics,100564.77,20,+91 9431071963
+Rahul Gupta,35,Asthma,Dr. Iyer,Orthopedics,,6,+91 9266989293
+Arjun Sharma,11,Asthma,Dr. Singh,Orthopedics,137879.67,9,+91 9683188962
+Aarav Desai,40,,Dr. Sharma,Cardiology,63090.93,14,+91 9263857208
+Sneha Reddy,59,Appendicitis,Dr. Mehta,General,40746.88,3,+91 9840574164
+Kavya Joshi,29,Diabetes,Dr. Singh,Surgery,41418.99,4,+91 9800514811
+Swati Nair,,Fracture,Dr. Mehta,Cardiology,84023.6,6,+91 9924929447
+Deepak Mehta,37,Appendicitis,Dr. Rao,Orthopedics,90242.32,15,
+Meera Sharma,12,Hypertension,,Surgery,147272.69,17,+91 9398456334
+Vikram Kumar,8,Hypertension,Dr. Rao,,61866.29,,+91 9674529902
+Suresh Sharma,59,COVID-19,Dr. Patel,General,,20,+91 9360216573
+Priya Pillai,-2,,Dr. Patel,,-5000,6,+91 9249028001
+Deepak Kapoor,58,Asthma,,Cardiology,21782.31,2,+91 9185843903
+Pooja Malhotra,38,Diabetes,Dr. Iyer,General,,9,---
+Kavya Malhotra,46,COVID-19,Dr. Singh,Pediatrics,146342.32,14,+91 9909087757
+Deepak Kapoor,31,Migraine,Dr. Mehta,Pediatrics,48158.68,,+91 9334524717
+Suresh Sharma,22,Asthma,Dr. Iyer,Pediatrics,93607.89,,+91 9762929934
+Priya Kumar,69,Migraine,Dr. Rao,Cardiology,22243.14,10,0000
+Meera Nair,25,Fever,Dr. Patel,Pediatrics,115040.17,0,+91 9876031758
+Rahul Gupta,0,Pneumonia,Dr. Iyer,Orthopedics,124758.56,19,---
+Suresh Nair,25,,,Pediatrics,39709.7,19,0000
+Arjun Shah,23,Pneumonia,Dr. Patel,Surgery,34763.67,11,+91 9316591265
+Deepak Singh,,COVID-19,Dr. Rao,Surgery,68348.13,7,
+Kavya Sharma,130,Fracture,Dr. Mehta,Pediatrics,119009.32,14,+91 9666087498
+Vikram Malhotra,10,,Dr. Mehta,Pediatrics,,-1,+91 9317252769
+,28,COVID-19,Dr. Rao,General,34932.68,-1,+91 9834604200
+Rohit Bose,34,Pneumonia,Dr. Rao,Orthopedics,24079.38,13,+91 9209198421
+Pooja Rao,,Anemia,Dr. Patel,Surgery,54847.91,20,
+Priya Gupta,53,COVID-19,Dr. Singh,Surgery,32402.68,,+91 9906495656
+Nisha Nair,48,,Dr. Patel,General,23201.91,14,+91 9954314039
+Suresh Mehta,18,Migraine,Dr. Singh,Orthopedics,147642.44,9,+91 9586583194
+Kavya Iyer,26,Fracture,Dr. Rao,Cardiology,120045.83,17,+91 9587425789
+Swati Shah,50,Migraine,Dr. Iyer,Cardiology,51404.4,19,
+Rohit Iyer,26,Fracture,Dr. Iyer,Orthopedics,,11,+91 9110023895
+Priya Chauhan,,Fracture,Dr. Iyer,Surgery,135747.25,17,+91 9161520836
+Priya Rao,18,Fever,Dr. Iyer,Surgery,3861.37,20,+91 9835761543
+Vikram Gupta,76,,Dr. Iyer,Orthopedics,52090.64,12,+91 9554090751
+Suresh Kumar,58,COVID-19,Dr. Singh,General,85719.63,8,+91 9537369594
+Suresh Joshi,28,Pneumonia,Dr. Mehta,Orthopedics,23991.42,13,0000
+,75,Anemia,Dr. Sharma,Orthopedics,94866.01,7,+91 9556187205
+Rahul Bose,15,Fracture,Dr. Rao,,141311.13,10,+91 9871472708
+Aarav Malhotra,51,Fever,Dr. Patel,General,64169.06,-1,+91 9473982138
+Rohit Sharma,43,Diabetes,Dr. Rao,Cardiology,25583.39,,+91 9431290129
+Kiran Reddy,15,Asthma,Dr. Iyer,ICU,,0,+91 9985061751
+Rohit Singh,17,Fracture,Dr. Sharma,General,71061.64,1,+91 9324517127
+Kavya Reddy,46,Appendicitis,Dr. Singh,General,30489.21,16,+91 9870007557
+Sneha Joshi,24,Pneumonia,Dr. Rao,,68335.63,14,
+Rohit Gupta,55,Appendicitis,Dr. Sharma,,119731.51,17,+91 9958265864
+Pooja Bhat,68,COVID-19,Dr. Mehta,ICU,,15,+91 9471921539

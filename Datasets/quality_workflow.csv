@@ -1,0 +1,25 @@
+name,email,city,age,phone
+Alice Johnson,alice@gmail.com,Boston,28,+1 617-555-0100
+Alice Johnson ,alice@gmail.com,Boston,28,+1 617-555-0100
+alice johnson,alice@gmail,Boston,28,+1 617-555-0100
+Bob Smith,bob@company.com,Chicago,35,555-0101
+Bob Smith,bob@company.com,Chicago,35,555-0101
+Carol White,,Seattle,42,bad-phone
+Carol White,carol.white@gmail.com,Seattle,999,206-555-0180
+David Lee,david@gmail.com,Austin,31,+1 512-555-0199
+David Lee,david@gmail.com,Austin,500,512-555-0199
+Eve Brown,eve@gmail.com,Portland,27,503-555-0122
+Frank Miller,frankgmail.com,Miami,40,+1 305-555-0144
+Grace Kim,grace.kim@gmail.com,Denver,33,303-555-0166
+Grace Kim,grace.kim@gmail.com,Denver,33,303-555-0166
+Henry Wilson,,Phoenix,29,602-555-0177
+Ivy Chen,ivy@gmail.com,San Jose,26,+1 408-555-0188
+Jack Moore,jack@gmail.com,Dallas,1200,214-555-0190
+Kate Adams,kate@gmail.com,Atlanta,34,404-555-0111
+Kate Adams,kate@gmail.com,Atlanta,34,404-555-0111
+Leo Garcia,leo@gmail.com,San Diego,22,619-555-0133
+Mia Torres,mia@gmail.com,Detroit,,313-555-0155
+Noah Scott,noah@gmail.com,Minneapolis,45,612-555-0170
+Olivia Reed,olivia@gmail.com,Tampa,38,813-555-0141
+Paul King,paul@gmail.com,Charlotte,5000,704-555-0120
+Quinn Bell,quinn@gmail.com,Orlando,30,407-555-0161
